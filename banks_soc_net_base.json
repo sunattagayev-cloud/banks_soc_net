@@ -272,7 +272,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_01",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 99,
     "Likes": 46,
@@ -569,7 +569,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_02",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 101,
     "Likes": 47,
@@ -857,7 +857,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_03",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 106,
     "Likes": 50,
@@ -1154,7 +1154,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_04",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 113,
     "Likes": 55,
@@ -1433,7 +1433,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_05",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 167,
     "Likes": 87,
@@ -1721,7 +1721,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_06",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 194,
     "Likes": 100,
@@ -2000,7 +2000,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_07",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 201,
     "Likes": 105,
@@ -2297,7 +2297,7 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_08",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 214,
     "Likes": 109,
@@ -3168,6 +3168,294 @@
     "LikeRate": 0.8571
   },
   {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank.uz",
+    "Subscribers": 37395,
+    "Likes": 30000,
+    "LikeRate": 0.8022
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../HamkorBank.uz",
+    "Subscribers": 28073,
+    "Likes": 26000,
+    "LikeRate": 0.9262
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../ipakyulibankuz/",
+    "Subscribers": 24278,
+    "Likes": 20000,
+    "LikeRate": 0.8238
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "O'ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz",
+    "Subscribers": 20007,
+    "Likes": 18000,
+    "LikeRate": 0.8997
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../InFinBank/",
+    "Subscribers": 18549,
+    "Likes": 15000,
+    "LikeRate": 0.8087
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank.uzb",
+    "Subscribers": 16760,
+    "Likes": 9200,
+    "LikeRate": 0.5489
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank.aj",
+    "Subscribers": 13906,
+    "Likes": 10000,
+    "LikeRate": 0.7191
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuz",
+    "Subscribers": 11971,
+    "Likes": 8100,
+    "LikeRate": 0.6766
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbank/",
+    "Subscribers": 10333,
+    "Likes": 7800,
+    "LikeRate": 0.7549
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 9705,
+    "Likes": 7100,
+    "LikeRate": 0.7316
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../uznbu",
+    "Subscribers": 9366,
+    "Likes": 8200,
+    "LikeRate": 0.8755
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../AsiaAllianceBank/",
+    "Subscribers": 9012,
+    "Likes": 8100,
+    "LikeRate": 0.8988
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb.uz",
+    "Subscribers": 8928,
+    "Likes": 7000,
+    "LikeRate": 0.7841
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank",
+    "Subscribers": 8283,
+    "Likes": 7800,
+    "LikeRate": 0.9417
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebank.uz",
+    "Subscribers": 7673,
+    "Likes": 6500,
+    "LikeRate": 0.8471
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbank.uz/",
+    "Subscribers": 6683,
+    "Likes": 5700,
+    "LikeRate": 0.8529
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank.uz",
+    "Subscribers": 5800,
+    "Likes": 4800,
+    "LikeRate": 0.8276
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank/",
+    "Subscribers": 5161,
+    "Likes": 4500,
+    "LikeRate": 0.8719
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbank.uzb",
+    "Subscribers": 4984,
+    "Likes": 4700,
+    "LikeRate": 0.943
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank/",
+    "Subscribers": 4706,
+    "Likes": 4200,
+    "LikeRate": 0.8925
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabankofficial/",
+    "Subscribers": 2494,
+    "Likes": 1400,
+    "LikeRate": 0.5613
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../Poytaxt/",
+    "Subscribers": 1079,
+    "Likes": 980,
+    "LikeRate": 0.9082
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbank.uz",
+    "Subscribers": 635,
+    "Likes": 572,
+    "LikeRate": 0.9008
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../people/Hayot-Bank/100090053345078/",
+    "Subscribers": 472,
+    "Likes": 179,
+    "LikeRate": 0.3792
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank",
+    "Subscribers": 328,
+    "Likes": 244,
+    "LikeRate": 0.7439
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "SODEROT BANK",
+    "ChannelLink": ".../Saderatbank.Tahskent",
+    "Subscribers": 299,
+    "Likes": 287,
+    "LikeRate": 0.9599
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank.uz",
+    "Subscribers": 297,
+    "Likes": 53,
+    "LikeRate": 0.1785
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK (business)",
+    "ChannelLink": ".../yangibank.business.official",
+    "Subscribers": 239,
+    "Likes": 188,
+    "LikeRate": 0.7866
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../smartbank.uz",
+    "Subscribers": 237,
+    "Likes": 184,
+    "LikeRate": 0.7764
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbank.uzbekistan",
+    "Subscribers": 200,
+    "Likes": 160,
+    "LikeRate": 0.8
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybankuzb",
+    "Subscribers": 125,
+    "Likes": 65,
+    "LikeRate": 0.52
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK",
+    "ChannelLink": ".../yangibank.official",
+    "Subscribers": 95,
+    "Likes": 78,
+    "LikeRate": 0.8211
+  },
+  {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_01",
     "OrgName": "ANOR BANK",
@@ -3554,7 +3842,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_01",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 1773,
     "Publications": 77,
@@ -3950,7 +4238,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_02",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3258,
     "Publications": 82,
@@ -4358,7 +4646,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_03",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3815,
     "Publications": 87,
@@ -4754,7 +5042,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_04",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 5112,
     "Publications": 93,
@@ -5114,7 +5402,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_05",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 7426,
     "Publications": 100,
@@ -5486,7 +5774,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_06",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 11000,
     "Publications": 109,
@@ -5882,7 +6170,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_07",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 13000,
     "Publications": 115,
@@ -6278,7 +6566,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_08",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 14000,
     "Publications": 120,
@@ -7082,7 +7370,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": ".../openbank.uz",
     "Subscribers": 15000,
     "Publications": 137,
@@ -7629,6 +7917,414 @@
     "AvgPubPerMonth": 2,
     "ChannelAge": 4.6,
     "ChannelAgeText": "4 yil 7 oy",
+    "RegistrationDate": "2021-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuzbekistan/",
+    "Subscribers": 191000,
+    "Publications": 1432,
+    "AvgPubPerMonth": 22,
+    "ChannelAge": 5.6,
+    "ChannelAgeText": "5 yil 7 oy",
+    "RegistrationDate": "2020-06-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank/",
+    "Subscribers": 143000,
+    "Publications": 1361,
+    "AvgPubPerMonth": 20,
+    "ChannelAge": 5.9,
+    "ChannelAgeText": "5 yil 11 oy",
+    "RegistrationDate": "2020-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabankofficial/",
+    "Subscribers": 122000,
+    "Publications": 1287,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 7.6,
+    "ChannelAgeText": "7 yil 7 oy",
+    "RegistrationDate": "2018-06-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "O'ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz/",
+    "Subscribers": 96800,
+    "Publications": 1443,
+    "AvgPubPerMonth": 17,
+    "ChannelAge": 7.4,
+    "ChannelAgeText": "7 yil 5 oy",
+    "RegistrationDate": "2018-08-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank_uz/",
+    "Subscribers": 85100,
+    "Publications": 690,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 7.0,
+    "ChannelAgeText": "7 yil ",
+    "RegistrationDate": "2019-01-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank_uz",
+    "Subscribers": 76800,
+    "Publications": 57,
+    "AvgPubPerMonth": 4,
+    "ChannelAge": 1.5,
+    "ChannelAgeText": "1 yil 6 oy",
+    "RegistrationDate": "2024-07-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank.uz/",
+    "Subscribers": 76800,
+    "Publications": 1157,
+    "AvgPubPerMonth": 11,
+    "ChannelAge": 8.8,
+    "ChannelAgeText": "8 yil 10 oy",
+    "RegistrationDate": "2017-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../ipakyulibank/",
+    "Subscribers": 67900,
+    "Publications": 2060,
+    "AvgPubPerMonth": 22,
+    "ChannelAge": 7.9,
+    "ChannelAgeText": "7 yil 11 oy",
+    "RegistrationDate": "2018-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank/",
+    "Subscribers": 62500,
+    "Publications": 289,
+    "AvgPubPerMonth": 8,
+    "ChannelAge": 3.1,
+    "ChannelAgeText": "3 yil 1 oy",
+    "RegistrationDate": "2022-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabank.uz/",
+    "Subscribers": 60000,
+    "Publications": 1284,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 7.2,
+    "ChannelAgeText": "7 yil 2 oy",
+    "RegistrationDate": "2018-11-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz/",
+    "Subscribers": 59300,
+    "Publications": 798,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 8.3,
+    "ChannelAgeText": "8 yil 3 oy",
+    "RegistrationDate": "2017-10-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../hamkorbank.uz/",
+    "Subscribers": 55800,
+    "Publications": 1745,
+    "AvgPubPerMonth": 19,
+    "ChannelAge": 7.7,
+    "ChannelAgeText": "7 yil 8 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../investfinancebank/",
+    "Subscribers": 44600,
+    "Publications": 1191,
+    "AvgPubPerMonth": 12,
+    "ChannelAge": 8.9,
+    "ChannelAgeText": "8 yil 11 oy",
+    "RegistrationDate": "2017-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../nbu.official/",
+    "Subscribers": 40300,
+    "Publications": 1663,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 9.5,
+    "ChannelAgeText": "9 yil 6 oy",
+    "RegistrationDate": "2016-07-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo/",
+    "Subscribers": 35200,
+    "Publications": 1611,
+    "AvgPubPerMonth": 21,
+    "ChannelAge": 6.7,
+    "ChannelAgeText": "6 yil 8 oy",
+    "RegistrationDate": "2019-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank.uz/",
+    "Subscribers": 27100,
+    "Publications": 933,
+    "AvgPubPerMonth": 8,
+    "ChannelAge": 10.0,
+    "ChannelAgeText": "10 yil ",
+    "RegistrationDate": "2016-01-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank.uz",
+    "Subscribers": 23200,
+    "Publications": 1046,
+    "AvgPubPerMonth": 12,
+    "ChannelAge": 7.7,
+    "ChannelAgeText": "7 yil 8 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbank.uz",
+    "Subscribers": 21200,
+    "Publications": 1040,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 6.1,
+    "ChannelAgeText": "6 yil 1 oy",
+    "RegistrationDate": "2019-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbank_uz/",
+    "Subscribers": 20300,
+    "Publications": 1873,
+    "AvgPubPerMonth": 21,
+    "ChannelAge": 7.7,
+    "ChannelAgeText": "7 yil 8 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asia_alliance_bank/",
+    "Subscribers": 20200,
+    "Publications": 1158,
+    "AvgPubPerMonth": 14,
+    "ChannelAge": 7.1,
+    "ChannelAgeText": "7 yil 1 oy",
+    "RegistrationDate": "2018-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebankuz/",
+    "Subscribers": 20100,
+    "Publications": 1147,
+    "AvgPubPerMonth": 16,
+    "ChannelAge": 6.2,
+    "ChannelAgeText": "6 yil 2 oy",
+    "RegistrationDate": "2019-11-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbank/",
+    "Subscribers": 18500,
+    "Publications": 1255,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 11.8,
+    "ChannelAgeText": "11 yil 10 oy",
+    "RegistrationDate": "2014-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../openbank.uz",
+    "Subscribers": 15600,
+    "Publications": 149,
+    "AvgPubPerMonth": 5,
+    "ChannelAge": 3.1,
+    "ChannelAgeText": "3 yil 1 oy",
+    "RegistrationDate": "2022-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank_aj/",
+    "Subscribers": 15500,
+    "Publications": 857,
+    "AvgPubPerMonth": 11,
+    "ChannelAge": 6.8,
+    "ChannelAgeText": "6 yil 10 oy",
+    "RegistrationDate": "2019-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbank.uz/",
+    "Subscribers": 15300,
+    "Publications": 909,
+    "AvgPubPerMonth": 13,
+    "ChannelAge": 6.3,
+    "ChannelAgeText": "6 yil 3 oy",
+    "RegistrationDate": "2019-10-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb_info",
+    "Subscribers": 13300,
+    "Publications": 2581,
+    "AvgPubPerMonth": 22,
+    "ChannelAge": 10.0,
+    "ChannelAgeText": "10 yil ",
+    "RegistrationDate": "2016-01-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK (business)",
+    "ChannelLink": ".../yangibank.business.official",
+    "Subscribers": 11700,
+    "Publications": 376,
+    "AvgPubPerMonth": 17,
+    "ChannelAge": 1.9,
+    "ChannelAgeText": "1 yil 10 oy",
+    "RegistrationDate": "2024-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank.uz",
+    "Subscribers": 11200,
+    "Publications": 61,
+    "AvgPubPerMonth": 2,
+    "ChannelAge": 3.8,
+    "ChannelAgeText": "3 yil 10 oy",
+    "RegistrationDate": "2022-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbank_uzbekistan",
+    "Subscribers": 8816,
+    "Publications": 403,
+    "AvgPubPerMonth": 5,
+    "ChannelAge": 7.9,
+    "ChannelAgeText": "7 yil 11 oy",
+    "RegistrationDate": "2018-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 8001,
+    "Publications": 218,
+    "AvgPubPerMonth": 6,
+    "ChannelAge": 3.4,
+    "ChannelAgeText": "3 yil 5 oy",
+    "RegistrationDate": "2022-08-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../poytaxt_bank/",
+    "Subscribers": 6204,
+    "Publications": 432,
+    "AvgPubPerMonth": 6,
+    "ChannelAge": 6.8,
+    "ChannelAgeText": "6 yil 9 oy",
+    "RegistrationDate": "2019-04-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK",
+    "ChannelLink": ".../yangibank.official",
+    "Subscribers": 6166,
+    "Publications": 198,
+    "AvgPubPerMonth": 7,
+    "ChannelAge": 2.7,
+    "ChannelAgeText": "2 yil 8 oy",
+    "RegistrationDate": "2023-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "SODEROT BANK",
+    "ChannelLink": ".../saderatbank_tashkent/",
+    "Subscribers": 4142,
+    "Publications": 39,
+    "AvgPubPerMonth": 1,
+    "ChannelAge": 5.1,
+    "ChannelAgeText": "5 yil 1 oy",
+    "RegistrationDate": "2020-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2025_12",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybankuzb/",
+    "Subscribers": 1427,
+    "Publications": 95,
+    "AvgPubPerMonth": 2,
+    "ChannelAge": 4.7,
+    "ChannelAgeText": "4 yil 8 oy",
     "RegistrationDate": "2021-05-01"
   },
   {
@@ -8474,7 +9170,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_02",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 920,
     "SubChange": 70,
@@ -8936,7 +9632,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_03",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 927,
     "SubChange": 10,
@@ -9398,7 +10094,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_04",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1008,
     "SubChange": 81,
@@ -9860,7 +10556,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_05",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1121,
     "SubChange": 95,
@@ -10294,7 +10990,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_06",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1389,
     "SubChange": 268,
@@ -10756,7 +11452,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_07",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1432,
     "SubChange": 55,
@@ -11218,7 +11914,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_08",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1466,
     "SubChange": 39,
@@ -11680,7 +12376,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_09",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1454,
     "SubChange": -12,
@@ -12142,7 +12838,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": "https://t.me/openbank_uz",
     "Subscribers": 1446,
     "SubChange": -1,
@@ -12604,7 +13300,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_11",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": null,
     "Subscribers": 1445,
     "SubChange": 2,
@@ -12670,6 +13366,468 @@
     "AdReachPerPost": 74,
     "ChannelAge": 1.7699,
     "ChannelAgeText": "1 yil 9 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank",
+    "Subscribers": 145733,
+    "SubChange": 14335,
+    "Publications": 1228,
+    "PubChange": 21.0,
+    "ReachPerPost": 127290,
+    "AdReachPerPost": 54894,
+    "ChannelAge": 5.9397,
+    "ChannelAgeText": "5 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo",
+    "Subscribers": 111384,
+    "SubChange": 4268,
+    "Publications": 3554,
+    "PubChange": 32.0,
+    "ReachPerPost": 56293,
+    "AdReachPerPost": 24250,
+    "ChannelAge": 6.8767,
+    "ChannelAgeText": "6 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../AgrobankChannel",
+    "Subscribers": 79997,
+    "SubChange": 7926,
+    "Publications": 1947,
+    "PubChange": 36.0,
+    "ReachPerPost": 52297,
+    "AdReachPerPost": 19179,
+    "ChannelAge": 8.2466,
+    "ChannelAgeText": "8 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 47611,
+    "SubChange": 1975,
+    "Publications": 3523,
+    "PubChange": 25.0,
+    "ReachPerPost": 23325,
+    "AdReachPerPost": 8605,
+    "ChannelAge": 7.8548,
+    "ChannelAgeText": "7 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mikrokreditbank",
+    "Subscribers": 33259,
+    "SubChange": 2643,
+    "Publications": 4405,
+    "PubChange": 80.0,
+    "ReachPerPost": 6821,
+    "AdReachPerPost": 2476,
+    "ChannelAge": 8.2438,
+    "ChannelAgeText": "8 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../Hamkorbankuz",
+    "Subscribers": 30291,
+    "SubChange": 603,
+    "Publications": 4930,
+    "PubChange": 66.0,
+    "ReachPerPost": 11579,
+    "AdReachPerPost": 6303,
+    "ChannelAge": 9.2877,
+    "ChannelAgeText": "9 yil 3 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../nbu_official",
+    "Subscribers": 28561,
+    "SubChange": 1539,
+    "Publications": 3132,
+    "PubChange": 129.0,
+    "ReachPerPost": 8456,
+    "AdReachPerPost": 6000,
+    "ChannelAge": 8.9562,
+    "ChannelAgeText": "8 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbc_bank_uzb",
+    "Subscribers": 27525,
+    "SubChange": -463,
+    "Publications": 2114,
+    "PubChange": 35.0,
+    "ReachPerPost": 293087,
+    "AdReachPerPost": 4159,
+    "ChannelAge": 5.5425,
+    "ChannelAgeText": "5 yil 6 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapital24",
+    "Subscribers": 26093,
+    "SubChange": 69,
+    "Publications": 2030,
+    "PubChange": 31.0,
+    "ReachPerPost": 8152,
+    "AdReachPerPost": 3911,
+    "ChannelAge": 8.7068,
+    "ChannelAgeText": "8 yil 8 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb_uzb",
+    "Subscribers": 21854,
+    "SubChange": 444,
+    "Publications": 529,
+    "PubChange": 60.0,
+    "ReachPerPost": 53348,
+    "AdReachPerPost": 4320,
+    "ChannelAge": 2.1671,
+    "ChannelAgeText": "2 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "O'ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz",
+    "Subscribers": 20518,
+    "SubChange": -4610,
+    "Publications": 2733,
+    "PubChange": 51.0,
+    "ReachPerPost": 9352,
+    "AdReachPerPost": 4716,
+    "ChannelAge": 8.189,
+    "ChannelAgeText": "8 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../Asakabank_official",
+    "Subscribers": 17982,
+    "SubChange": 1,
+    "Publications": 3841,
+    "PubChange": 59.0,
+    "ReachPerPost": 6636,
+    "AdReachPerPost": 3295,
+    "ChannelAge": 7.6932,
+    "ChannelAgeText": "7 yil 8 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../ipakyulibankuz",
+    "Subscribers": 17016,
+    "SubChange": 73,
+    "Publications": 3542,
+    "PubChange": 73.0,
+    "ReachPerPost": 3529,
+    "AdReachPerPost": 1978,
+    "ChannelAge": 7.8767,
+    "ChannelAgeText": "7 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank",
+    "Subscribers": 16898,
+    "SubChange": 932,
+    "Publications": 1036,
+    "PubChange": 39.0,
+    "ReachPerPost": 13224,
+    "AdReachPerPost": 4898,
+    "ChannelAge": 1.8795,
+    "ChannelAgeText": "1 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank",
+    "Subscribers": 11682,
+    "SubChange": 53,
+    "Publications": 2985,
+    "PubChange": 79.0,
+    "ReachPerPost": 2686,
+    "AdReachPerPost": 1690,
+    "ChannelAge": 5.9945,
+    "ChannelAgeText": "5 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank",
+    "Subscribers": 9527,
+    "SubChange": -108,
+    "Publications": 4662,
+    "PubChange": 57.0,
+    "ReachPerPost": 3961,
+    "AdReachPerPost": 2228,
+    "ChannelAge": 8.326,
+    "ChannelAgeText": "8 yil 3 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbankuz",
+    "Subscribers": 8959,
+    "SubChange": 1194,
+    "Publications": 5856,
+    "PubChange": 48.0,
+    "ReachPerPost": 6726,
+    "AdReachPerPost": 2617,
+    "ChannelAge": 7.4575,
+    "ChannelAgeText": "7 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../Octobank_AJ",
+    "Subscribers": 8260,
+    "SubChange": -18,
+    "Publications": 4374,
+    "PubChange": 77.0,
+    "ReachPerPost": 929,
+    "AdReachPerPost": 490,
+    "ChannelAge": 7.8877,
+    "ChannelAgeText": "7 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz",
+    "Subscribers": 7792,
+    "SubChange": -177,
+    "Publications": 2404,
+    "PubChange": 45.0,
+    "ReachPerPost": 3586,
+    "AdReachPerPost": 1662,
+    "ChannelAge": 6.4219,
+    "ChannelAgeText": "6 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../Tengebankuz",
+    "Subscribers": 7164,
+    "SubChange": -25,
+    "Publications": 2300,
+    "PubChange": 20.0,
+    "ReachPerPost": 2252,
+    "AdReachPerPost": 999,
+    "ChannelAge": 6.4164,
+    "ChannelAgeText": "6 yil 4 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbankuz",
+    "Subscribers": 6822,
+    "SubChange": -73,
+    "Publications": 3698,
+    "PubChange": 57.0,
+    "ReachPerPost": 3058,
+    "AdReachPerPost": 1714,
+    "ChannelAge": 7.2356,
+    "ChannelAgeText": "7 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK",
+    "ChannelLink": ".../yangibank_official",
+    "Subscribers": 6148,
+    "SubChange": 520,
+    "Publications": 860,
+    "PubChange": 30.0,
+    "ReachPerPost": 2824,
+    "AdReachPerPost": 2179,
+    "ChannelAge": 1.8603,
+    "ChannelAgeText": "1 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank_uzb",
+    "Subscribers": 4985,
+    "SubChange": -2,
+    "Publications": 120,
+    "PubChange": 15.0,
+    "ReachPerPost": 1415,
+    "AdReachPerPost": 525,
+    "ChannelAge": 2.989,
+    "ChannelAgeText": "2 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asiaalliancebank",
+    "Subscribers": 4547,
+    "SubChange": 41,
+    "Publications": 3498,
+    "PubChange": 27.0,
+    "ReachPerPost": 2079,
+    "AdReachPerPost": 1104,
+    "ChannelAge": 7.0521,
+    "ChannelAgeText": "7 yil "
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../myuniversalbank",
+    "Subscribers": 2837,
+    "SubChange": 105,
+    "Publications": 2503,
+    "PubChange": 47.0,
+    "ReachPerPost": 2090,
+    "AdReachPerPost": 1159,
+    "ChannelAge": 6.8411,
+    "ChannelAgeText": "6 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbankuz_official",
+    "Subscribers": 2450,
+    "SubChange": 5,
+    "Publications": 3023,
+    "PubChange": 69.0,
+    "ReachPerPost": 1085,
+    "AdReachPerPost": 680,
+    "ChannelAge": 9.3863,
+    "ChannelAgeText": "9 yil 4 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 1935,
+    "SubChange": 78,
+    "Publications": 319,
+    "PubChange": 1.0,
+    "ReachPerPost": 689,
+    "AdReachPerPost": 485,
+    "ChannelAge": 3.3397,
+    "ChannelAgeText": "3 yil 4 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbankuzbekistan",
+    "Subscribers": 1895,
+    "SubChange": -1,
+    "Publications": 767,
+    "PubChange": 32.0,
+    "ReachPerPost": 1449,
+    "AdReachPerPost": 515,
+    "ChannelAge": 7.9014,
+    "ChannelAgeText": "7 yil 10 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../smart_bank_uz",
+    "Subscribers": 1404,
+    "SubChange": -42,
+    "Publications": 289,
+    "PubChange": 6.0,
+    "ReachPerPost": 826,
+    "AdReachPerPost": 343,
+    "ChannelAge": 2.9699,
+    "ChannelAgeText": "2 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "KDB BANK O'ZBEKISTON",
+    "ChannelLink": ".../kdbuzbekistan",
+    "Subscribers": 1269,
+    "SubChange": 22,
+    "Publications": 2867,
+    "PubChange": 75.0,
+    "ReachPerPost": 541,
+    "AdReachPerPost": 289,
+    "ChannelAge": 5.8329,
+    "ChannelAgeText": "5 yil 9 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../bank_poytaxt",
+    "Subscribers": 1234,
+    "SubChange": 19,
+    "Publications": 1215,
+    "PubChange": 43.0,
+    "ReachPerPost": 601,
+    "AdReachPerPost": 302,
+    "ChannelAge": 6.7123,
+    "ChannelAgeText": "6 yil 8 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybank_uzb",
+    "Subscribers": 703,
+    "SubChange": -10,
+    "Publications": 365,
+    "PubChange": 4.0,
+    "ReachPerPost": 586,
+    "AdReachPerPost": 252,
+    "ChannelAge": 1.463,
+    "ChannelAgeText": "1 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK (business)",
+    "ChannelLink": ".../yangibank_business_official",
+    "Subscribers": 664,
+    "SubChange": 34,
+    "Publications": 1063,
+    "PubChange": 14.0,
+    "ReachPerPost": 2593,
+    "AdReachPerPost": 161,
+    "ChannelAge": 1.8548,
+    "ChannelAgeText": "1 yil 10 oy"
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -15708,6 +16866,270 @@
     "ChannelAge": 7.74
   },
   {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../@Agrobankuzb",
+    "Subscribers": 90800,
+    "Publications": 256,
+    "AvgPubPerMonth": 4,
+    "Views": 5011046,
+    "AvgViewsPerMonth": 68691,
+    "ChannelAge": 6.0959
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../@TBCBankuz",
+    "Subscribers": 50200,
+    "Publications": 328,
+    "AvgPubPerMonth": 6,
+    "Views": 3686875,
+    "AvgViewsPerMonth": 60686,
+    "ChannelAge": 5.0767
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../@turonbankmedia",
+    "Subscribers": 31400,
+    "Publications": 577,
+    "AvgPubPerMonth": 10,
+    "Views": 2775133,
+    "AvgViewsPerMonth": 44596,
+    "ChannelAge": 5.2
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../@XalqBankinfo",
+    "Subscribers": 18500,
+    "Publications": 313,
+    "AvgPubPerMonth": 5,
+    "Views": 1814040,
+    "AvgViewsPerMonth": 23808,
+    "ChannelAge": 6.3671
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../@avobank",
+    "Subscribers": 12200,
+    "Publications": 58,
+    "AvgPubPerMonth": 3,
+    "Views": 634946,
+    "AvgViewsPerMonth": 22519,
+    "ChannelAge": 2.3562
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../@ipotekabankofficial",
+    "Subscribers": 8000,
+    "Publications": 88,
+    "AvgPubPerMonth": 2,
+    "Views": 257338,
+    "AvgViewsPerMonth": 3829,
+    "ChannelAge": 5.6164
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../@JSCBHamkorBank",
+    "Subscribers": 7890,
+    "Publications": 176,
+    "AvgPubPerMonth": 2,
+    "Views": 1150458,
+    "AvgViewsPerMonth": 8431,
+    "ChannelAge": 11.4027
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "O'ZSANOATQURILISHBANK",
+    "ChannelLink": ".../@sqbuz",
+    "Subscribers": 6440,
+    "Publications": 84,
+    "AvgPubPerMonth": 2,
+    "Views": 543935,
+    "AvgViewsPerMonth": 7447,
+    "ChannelAge": 6.1041
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../@nbu.official",
+    "Subscribers": 5810,
+    "Publications": 698,
+    "AvgPubPerMonth": 8,
+    "Views": 912346,
+    "AvgViewsPerMonth": 9573,
+    "ChannelAge": 7.9644
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../@IpakYuliBankUzb",
+    "Subscribers": 5250,
+    "Publications": 221,
+    "AvgPubPerMonth": 3,
+    "Views": 755787,
+    "AvgViewsPerMonth": 9593,
+    "ChannelAge": 6.5836
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../@JSCAloqaBank",
+    "Subscribers": 6570,
+    "Publications": 272,
+    "AvgPubPerMonth": 3,
+    "Views": 670072,
+    "AvgViewsPerMonth": 5815,
+    "ChannelAge": 9.6301
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../@anorbankuz",
+    "Subscribers": 4530,
+    "Publications": 102,
+    "AvgPubPerMonth": 2,
+    "Views": 537456,
+    "AvgViewsPerMonth": 8424,
+    "ChannelAge": 5.3315
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../@mkbankuz",
+    "Subscribers": 3780,
+    "Publications": 149,
+    "AvgPubPerMonth": 3,
+    "Views": 356720,
+    "AvgViewsPerMonth": 5272,
+    "ChannelAge": 5.6548
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../@tengebankuz",
+    "Subscribers": 6080,
+    "Publications": 98,
+    "AvgPubPerMonth": 2,
+    "Views": 3882736,
+    "AvgViewsPerMonth": 77250,
+    "ChannelAge": 4.2
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../@trastbank8448",
+    "Subscribers": 3710,
+    "Publications": 361,
+    "AvgPubPerMonth": 10,
+    "Views": 904052,
+    "AvgViewsPerMonth": 22789,
+    "ChannelAge": 3.3151
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../@brb_info",
+    "Subscribers": 2680,
+    "Publications": 344,
+    "AvgPubPerMonth": 7,
+    "Views": 497941,
+    "AvgViewsPerMonth": 8892,
+    "ChannelAge": 4.6795
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../@infinbank7447",
+    "Subscribers": 2330,
+    "Publications": 89,
+    "AvgPubPerMonth": 1,
+    "Views": 1329276,
+    "AvgViewsPerMonth": 12483,
+    "ChannelAge": 8.8986
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../@davrbank336",
+    "Subscribers": 1870,
+    "Publications": 13,
+    "AvgPubPerMonth": 1,
+    "Views": 432061,
+    "AvgViewsPerMonth": 8283,
+    "ChannelAge": 4.3589
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../@asakabank8905",
+    "Subscribers": 1500,
+    "Publications": 34,
+    "AvgPubPerMonth": 1,
+    "Views": 105786,
+    "AvgViewsPerMonth": 1608,
+    "ChannelAge": 5.4986
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "YANGI BANK",
+    "ChannelLink": ".../@Yangibank",
+    "Subscribers": 797,
+    "Publications": 254,
+    "AvgPubPerMonth": 14,
+    "Views": 266141,
+    "AvgViewsPerMonth": 13972,
+    "ChannelAge": 1.5918
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../@КапитальныйКанал",
+    "Subscribers": 316,
+    "Publications": 29,
+    "AvgPubPerMonth": 1,
+    "Views": 39867,
+    "AvgViewsPerMonth": 379,
+    "ChannelAge": 8.7918
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2025_12",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../@ziraatbankuzbekistan5428",
+    "Subscribers": 268,
+    "Publications": 6,
+    "AvgPubPerMonth": 1,
+    "Views": 13047,
+    "AvgViewsPerMonth": 140,
+    "ChannelAge": 7.8247
+  },
+  {
     "SOC_NET": "X_COM",
     "Period": "2025_01",
     "OrgName": "XALQ BANKI",
@@ -15715,7 +17137,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.5123,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15725,7 +17147,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.263,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15735,7 +17157,7 @@
     "Subscribers": 40,
     "Scale": 45656,
     "ChannelAge": 0.0877,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15745,7 +17167,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.0137,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15755,7 +17177,7 @@
     "Subscribers": 32,
     "Scale": 42915,
     "ChannelAge": 7.5973,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15765,7 +17187,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.7671,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15775,7 +17197,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.5096,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15785,7 +17207,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.5945,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15795,7 +17217,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.7589,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15805,7 +17227,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.5123,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15815,7 +17237,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.7616,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15825,7 +17247,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.7616,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15835,7 +17257,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 1.8438,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15845,7 +17267,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.2575,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15855,7 +17277,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.674,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15865,7 +17287,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.6767,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15875,7 +17297,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.674,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -15885,7 +17307,7 @@
     "Subscribers": 2274,
     "Scale": 45656,
     "ChannelAge": 0.1644,
-    "Publications": 7.0
+    "Nashrlar \nПубликации": 7.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15895,7 +17317,7 @@
     "Subscribers": 161,
     "Scale": 43676,
     "ChannelAge": 5.589,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15905,7 +17327,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.3397,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15915,7 +17337,7 @@
     "Subscribers": 33,
     "Scale": 42915,
     "ChannelAge": 7.674,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15925,7 +17347,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.0904,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15935,7 +17357,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.8438,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15945,7 +17367,7 @@
     "Subscribers": 15,
     "Scale": 45137,
     "ChannelAge": 1.5863,
-    "Publications": 130.0
+    "Nashrlar \nПубликации": 130.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15955,7 +17377,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.6712,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15965,7 +17387,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.8356,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15975,7 +17397,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.589,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15985,7 +17407,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -15995,7 +17417,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16005,7 +17427,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 1.9205,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16015,7 +17437,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.3342,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16025,7 +17447,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.7507,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16035,7 +17457,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.7534,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16045,7 +17467,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.7507,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16055,7 +17477,7 @@
     "Subscribers": 3109,
     "Scale": 45656,
     "ChannelAge": 0.2493,
-    "Publications": 10.0
+    "Nashrlar \nПубликации": 10.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16065,7 +17487,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 5.674,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16075,7 +17497,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.4247,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16085,7 +17507,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.1753,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16095,7 +17517,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.7589,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16105,7 +17527,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.9288,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16115,7 +17537,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.6712,
-    "Publications": 135.0
+    "Nashrlar \nПубликации": 135.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16125,7 +17547,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.7562,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16135,7 +17557,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.9205,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16145,7 +17567,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.674,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16155,7 +17577,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.9233,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16165,7 +17587,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.9233,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16175,7 +17597,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16185,7 +17607,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.4192,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16195,7 +17617,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.8356,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16205,7 +17627,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16215,7 +17637,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.8356,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16225,7 +17647,7 @@
     "Subscribers": 161,
     "Scale": 43676,
     "ChannelAge": 5.7562,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16235,7 +17657,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.5068,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16245,7 +17667,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.2575,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16255,7 +17677,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.8411,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16265,7 +17687,7 @@
     "Subscribers": 25,
     "Scale": 45534,
     "ChannelAge": 0.6658,
-    "Publications": 9.0
+    "Nashrlar \nПубликации": 9.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16275,7 +17697,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 11.011,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16285,7 +17707,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.7534,
-    "Publications": 147.0
+    "Nashrlar \nПубликации": 147.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16295,7 +17717,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.8384,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16305,7 +17727,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.0027,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16315,7 +17737,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.7562,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16325,7 +17747,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16335,7 +17757,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16345,7 +17767,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.0877,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16355,7 +17777,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.5014,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16365,7 +17787,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.9178,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16375,7 +17797,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.9205,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16385,7 +17807,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.9178,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16395,7 +17817,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.8411,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16405,7 +17827,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.5918,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16415,7 +17837,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.3425,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16425,7 +17847,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.926,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16435,7 +17857,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.0959,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16445,7 +17867,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.8384,
-    "Publications": 169.0
+    "Nashrlar \nПубликации": 169.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16455,7 +17877,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.9233,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16465,7 +17887,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.0877,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16475,7 +17897,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 6.8411,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16485,7 +17907,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.0904,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16495,7 +17917,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.0904,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16505,7 +17927,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16515,7 +17937,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.5863,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16525,7 +17947,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0027,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16535,7 +17957,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16545,7 +17967,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0027,
-    "Publications": 7.0
+    "Nashrlar \nПубликации": 7.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16555,7 +17977,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.9233,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16565,7 +17987,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.674,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16575,7 +17997,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.4247,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16585,7 +18007,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.0082,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16595,7 +18017,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.1781,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16605,7 +18027,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.9205,
-    "Publications": 180.0
+    "Nashrlar \nПубликации": 180.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16615,7 +18037,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.0055,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16625,7 +18047,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.1699,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16635,7 +18057,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 6.9233,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16645,7 +18067,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16655,7 +18077,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16665,7 +18087,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.0849,
-    "Publications": 10.0
+    "Nashrlar \nПубликации": 10.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16675,7 +18097,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.2548,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16685,7 +18107,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.6685,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16695,7 +18117,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0849,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16705,7 +18127,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.0877,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16715,7 +18137,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 6.0082,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16725,7 +18147,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.7589,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16735,7 +18157,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.5096,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16745,7 +18167,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.0932,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16755,7 +18177,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.263,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16765,7 +18187,7 @@
     "Subscribers": 15,
     "Scale": 45137,
     "ChannelAge": 2.0055,
-    "Publications": 194.0
+    "Nashrlar \nПубликации": 194.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16775,7 +18197,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.0904,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16785,7 +18207,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.2548,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16795,7 +18217,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 7.0082,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16805,7 +18227,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16815,7 +18237,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16825,7 +18247,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.1699,
-    "Publications": 13.0
+    "Nashrlar \nПубликации": 13.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16835,7 +18257,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.3397,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16845,7 +18267,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.7534,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16855,7 +18277,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.1699,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16865,7 +18287,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16875,7 +18297,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 6.0932,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16885,7 +18307,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.8438,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16895,7 +18317,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.5945,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16905,7 +18327,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.1781,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16915,7 +18337,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.3479,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16925,7 +18347,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.0904,
-    "Publications": 223.0
+    "Nashrlar \nПубликации": 223.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16935,7 +18357,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.1753,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16945,7 +18367,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.3397,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16955,7 +18377,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.0932,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16965,7 +18387,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.3425,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16975,7 +18397,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.3425,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16985,7 +18407,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.2548,
-    "Publications": 15.0
+    "Nashrlar \nПубликации": 15.0
   },
   {
     "SOC_NET": "X_COM",
@@ -16995,7 +18417,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17005,7 +18427,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.8384,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17015,7 +18437,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.2548,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17025,7 +18447,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17035,7 +18457,7 @@
     "Subscribers": 162,
     "Scale": 43676,
     "ChannelAge": 6.1753,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17045,7 +18467,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.926,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17055,7 +18477,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.6767,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17065,7 +18487,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.2603,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17075,7 +18497,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.4301,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17085,7 +18507,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.1726,
-    "Publications": 248.0
+    "Nashrlar \nПубликации": 248.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17095,7 +18517,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.2575,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17105,7 +18527,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.4219,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17115,7 +18537,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.1753,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17125,7 +18547,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17135,7 +18557,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17145,7 +18567,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.337,
-    "Publications": 15.0
+    "Nashrlar \nПубликации": 15.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17155,7 +18577,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.5068,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17165,7 +18587,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.9205,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17175,7 +18597,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.337,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17185,7 +18607,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.3397,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17195,7 +18617,7 @@
     "Subscribers": 149,
     "Scale": 41942,
     "ChannelAge": 11.011,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17205,7 +18627,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.7616,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17215,7 +18637,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.3452,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17225,7 +18647,7 @@
     "Subscribers": 17,
     "Scale": 45137,
     "ChannelAge": 2.2575,
-    "Publications": 286.0
+    "Nashrlar \nПубликации": 286.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17235,7 +18657,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.3425,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17245,7 +18667,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.5068,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17255,7 +18677,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.2603,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17265,7 +18687,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.5096,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17275,7 +18697,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.4219,
-    "Publications": 16.0
+    "Nashrlar \nПубликации": 16.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17285,7 +18707,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.5918,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17295,7 +18717,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 2.0055,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17305,7 +18727,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.4219,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17315,7 +18737,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17325,7 +18747,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 11.0932,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17335,7 +18757,7 @@
     "Subscribers": 32,
     "Scale": 40938,
     "ChannelAge": 13.8438,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17345,7 +18767,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.4274,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17355,7 +18777,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.3397,
-    "Publications": 306.0
+    "Nashrlar \nПубликации": 306.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17365,7 +18787,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.4247,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17375,7 +18797,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.589,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17385,7 +18807,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.3425,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17395,7 +18817,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.5918,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17405,7 +18827,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.5041,
-    "Publications": 16.0
+    "Nashrlar \nПубликации": 16.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17415,7 +18837,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.674,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17425,7 +18847,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 2.0877,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17435,7 +18857,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.5041,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17445,7 +18867,137 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.5068,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../Hamkorbank_uz",
+    "Subscribers": 147,
+    "Scale": 41942,
+    "ChannelAge": 11.1781,
+    "Nashrlar \nПубликации": 97.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../ipakyulibank",
+    "Subscribers": 32,
+    "Scale": 40938,
+    "ChannelAge": 13.9288,
+    "Nashrlar \nПубликации": 42.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../infinbank",
+    "Subscribers": 31,
+    "Scale": 42915,
+    "ChannelAge": 8.5123,
+    "Nashrlar \nПубликации": 22.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../nbu_official",
+    "Subscribers": 16,
+    "Scale": 45137,
+    "ChannelAge": 2.4247,
+    "Nashrlar \nПубликации": 333.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "O'ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqb_uz",
+    "Subscribers": 6,
+    "Scale": 45106,
+    "ChannelAge": 2.5096,
+    "Nashrlar \nПубликации": 282.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank_",
+    "Subscribers": 5,
+    "Scale": 45411,
+    "ChannelAge": 1.674,
+    "Nashrlar \nПубликации": 5.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz",
+    "Subscribers": 3,
+    "Scale": 43311,
+    "ChannelAge": 7.4274,
+    "Nashrlar \nПубликации": 18.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../Agrobank_uz",
+    "Subscribers": 3,
+    "Scale": 44315,
+    "ChannelAge": 4.6767,
+    "Nashrlar \nПубликации": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../Turonbank0611",
+    "Subscribers": 2,
+    "Scale": 45442,
+    "ChannelAge": 1.589,
+    "Nashrlar \nПубликации": 16.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 1,
+    "Scale": 45015,
+    "ChannelAge": 2.7589,
+    "Nashrlar \nПубликации": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebank",
+    "Subscribers": 1,
+    "Scale": 45229,
+    "ChannelAge": 2.1726,
+    "Nashrlar \nПубликации": 1.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../BankIpoteka",
+    "Subscribers": 1,
+    "Scale": 45442,
+    "ChannelAge": 1.589,
+    "Nashrlar \nПубликации": 1.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank1",
+    "Subscribers": 1,
+    "Scale": 43981,
+    "ChannelAge": 5.5918,
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "LINKEDIN",
@@ -17530,7 +19082,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_01",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1160,
     "EmployeeCount": "51-200"
@@ -17746,7 +19298,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_02",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1197,
     "EmployeeCount": "51-200"
@@ -17962,7 +19514,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_03",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1282,
     "EmployeeCount": "51-200"
@@ -18178,7 +19730,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_04",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1365,
     "EmployeeCount": "51-200"
@@ -18394,7 +19946,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_05",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1567,
     "EmployeeCount": "51-200"
@@ -18610,7 +20162,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_06",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1750,
     "EmployeeCount": "51-200"
@@ -18826,7 +20378,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_07",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1903,
     "EmployeeCount": "51-200"
@@ -19042,7 +20594,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_08",
-    "OrgName": "OPEN BANK",
+    "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2036,
     "EmployeeCount": "51-200"
@@ -19274,7 +20826,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_09",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2153,
     "EmployeeCount": "51-200"
@@ -19474,7 +21026,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2256,
     "EmployeeCount": "51-200"
@@ -19698,7 +21250,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_11",
-    "OrgName": "OPEN BANK",
+    "OrgName": "OPEN BANK (SMART BANK)",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2374,
     "EmployeeCount": "51-200"
@@ -19821,6 +21373,222 @@
     "OrgName": "UNIVERSAL BANK",
     "ChannelLink": ".../universalbank-uz",
     "Subscribers": 166,
+    "EmployeeCount": "501-1000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuz",
+    "Subscribers": 16000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank",
+    "Subscribers": 11000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 10000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "BANK IPAK YO'LI",
+    "ChannelLink": ".../ipak-yuli-bank",
+    "Subscribers": 7000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank",
+    "Subscribers": 5000,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../hamkorbankuz",
+    "Subscribers": 4000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "O'ZMILLIYBANK",
+    "ChannelLink": ".../national-bankof-uzbekistan",
+    "Subscribers": 4000,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzum-bank1/",
+    "Subscribers": 3000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avo-uz",
+    "Subscribers": 3000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank-uz",
+    "Subscribers": 3000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabank",
+    "Subscribers": 3000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbankuz",
+    "Subscribers": 2000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../smartbank-uz",
+    "Subscribers": 2000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../infinbank/",
+    "Subscribers": 2000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank",
+    "Subscribers": 2000,
+    "EmployeeCount": "501-1000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayot-bankuz",
+    "Subscribers": 1000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tenge-bank/",
+    "Subscribers": 1000,
+    "EmployeeCount": "0-1"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank/",
+    "Subscribers": 1000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraat-bank-uzbekistan",
+    "Subscribers": 1000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../jsc-xalq-banki-of-the-republic-of-uzbekistan",
+    "Subscribers": 1000,
+    "EmployeeCount": "10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "KDB BANK O'ZBEKISTON",
+    "ChannelLink": ".../kdb-bank-uzbekistan",
+    "Subscribers": 987,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davr-bank",
+    "Subscribers": 885,
+    "EmployeeCount": "10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbankuz/",
+    "Subscribers": 454,
+    "EmployeeCount": "10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garant-bank-uzbekistan",
+    "Subscribers": 293,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asia-alliance-bank/",
+    "Subscribers": 280,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trastbank",
+    "Subscribers": 247,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2025_12",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank-uz",
+    "Subscribers": 173,
     "EmployeeCount": "501-1000"
   }
 ]
