@@ -3842,7 +3842,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_01",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 1773,
     "Publications": 77,
@@ -4238,7 +4238,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_02",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3258,
     "Publications": 82,
@@ -4646,7 +4646,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_03",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3815,
     "Publications": 87,
@@ -5042,7 +5042,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_04",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 5112,
     "Publications": 93,
@@ -5402,7 +5402,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_05",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 7426,
     "Publications": 100,
@@ -5774,7 +5774,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_06",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 11000,
     "Publications": 109,
@@ -6170,7 +6170,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_07",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 13000,
     "Publications": 115,
@@ -6566,7 +6566,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_08",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 14000,
     "Publications": 120,
@@ -7370,7 +7370,7 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../openbank.uz",
     "Subscribers": 15000,
     "Publications": 137,
@@ -9170,7 +9170,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_02",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 920,
     "SubChange": 70,
@@ -9632,7 +9632,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_03",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 927,
     "SubChange": 10,
@@ -10094,7 +10094,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_04",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1008,
     "SubChange": 81,
@@ -10556,7 +10556,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_05",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1121,
     "SubChange": 95,
@@ -10990,7 +10990,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_06",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1389,
     "SubChange": 268,
@@ -11452,7 +11452,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_07",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1432,
     "SubChange": 55,
@@ -11914,7 +11914,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_08",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1466,
     "SubChange": 39,
@@ -12376,7 +12376,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_09",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smart_bank_uz",
     "Subscribers": 1454,
     "SubChange": -12,
@@ -12838,7 +12838,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": "https://t.me/openbank_uz",
     "Subscribers": 1446,
     "SubChange": -1,
@@ -13300,7 +13300,7 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_11",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": null,
     "Subscribers": 1445,
     "SubChange": 2,
@@ -17137,7 +17137,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.5123,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17147,7 +17147,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.263,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17157,7 +17157,7 @@
     "Subscribers": 40,
     "Scale": 45656,
     "ChannelAge": 0.0877,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17167,7 +17167,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.0137,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17177,7 +17177,7 @@
     "Subscribers": 32,
     "Scale": 42915,
     "ChannelAge": 7.5973,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17187,7 +17187,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.7671,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17197,7 +17197,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.5096,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17207,7 +17207,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.5945,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17217,7 +17217,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.7589,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17227,7 +17227,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.5123,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17237,7 +17237,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.7616,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17247,7 +17247,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.7616,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17257,7 +17257,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 1.8438,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17267,7 +17267,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.2575,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17277,7 +17277,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.674,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17287,7 +17287,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.6767,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17297,7 +17297,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.674,
-    "Publications": null
+    "Nashrlar \nПубликации": null
   },
   {
     "SOC_NET": "X_COM",
@@ -17307,7 +17307,7 @@
     "Subscribers": 2274,
     "Scale": 45656,
     "ChannelAge": 0.1644,
-    "Publications": 7.0
+    "Nashrlar \nПубликации": 7.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17317,7 +17317,7 @@
     "Subscribers": 161,
     "Scale": 43676,
     "ChannelAge": 5.589,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17327,7 +17327,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.3397,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17337,7 +17337,7 @@
     "Subscribers": 33,
     "Scale": 42915,
     "ChannelAge": 7.674,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17347,7 +17347,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.0904,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17357,7 +17357,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.8438,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17367,7 +17367,7 @@
     "Subscribers": 15,
     "Scale": 45137,
     "ChannelAge": 1.5863,
-    "Publications": 130.0
+    "Nashrlar \nПубликации": 130.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17377,7 +17377,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.6712,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17387,7 +17387,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.8356,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17397,7 +17397,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.589,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17407,7 +17407,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17417,7 +17417,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17427,7 +17427,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 1.9205,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17437,7 +17437,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.3342,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17447,7 +17447,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.7507,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17457,7 +17457,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.7534,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17467,7 +17467,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.7507,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17477,7 +17477,7 @@
     "Subscribers": 3109,
     "Scale": 45656,
     "ChannelAge": 0.2493,
-    "Publications": 10.0
+    "Nashrlar \nПубликации": 10.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17487,7 +17487,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 5.674,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17497,7 +17497,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.4247,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17507,7 +17507,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.1753,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17517,7 +17517,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.7589,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17527,7 +17527,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 10.9288,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17537,7 +17537,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.6712,
-    "Publications": 135.0
+    "Nashrlar \nПубликации": 135.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17547,7 +17547,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.7562,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17557,7 +17557,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 0.9205,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17567,7 +17567,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.674,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17577,7 +17577,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 1.9233,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17587,7 +17587,7 @@
     "Subscribers": 2,
     "Scale": 44315,
     "ChannelAge": 3.9233,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17597,7 +17597,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17607,7 +17607,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.4192,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17617,7 +17617,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.8356,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17627,7 +17627,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.8384,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17637,7 +17637,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.8356,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17647,7 +17647,7 @@
     "Subscribers": 161,
     "Scale": 43676,
     "ChannelAge": 5.7562,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17657,7 +17657,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.5068,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17667,7 +17667,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.2575,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17677,7 +17677,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.8411,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17687,7 +17687,7 @@
     "Subscribers": 25,
     "Scale": 45534,
     "ChannelAge": 0.6658,
-    "Publications": 9.0
+    "Nashrlar \nПубликации": 9.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17697,7 +17697,7 @@
     "Subscribers": 24,
     "Scale": 41758,
     "ChannelAge": 11.011,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17707,7 +17707,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.7534,
-    "Publications": 147.0
+    "Nashrlar \nПубликации": 147.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17717,7 +17717,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.8384,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17727,7 +17727,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.0027,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17737,7 +17737,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 6.7562,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17747,7 +17747,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17757,7 +17757,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17767,7 +17767,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.0877,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17777,7 +17777,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.5014,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17787,7 +17787,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.9178,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17797,7 +17797,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 4.9205,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17807,7 +17807,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 0.9178,
-    "Publications": 6.0
+    "Nashrlar \nПубликации": 6.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17817,7 +17817,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.8411,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17827,7 +17827,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.5918,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17837,7 +17837,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.3425,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17847,7 +17847,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 7.926,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17857,7 +17857,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.0959,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17867,7 +17867,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.8384,
-    "Publications": 169.0
+    "Nashrlar \nПубликации": 169.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17877,7 +17877,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 1.9233,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17887,7 +17887,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.0877,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17897,7 +17897,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 6.8411,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17907,7 +17907,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.0904,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17917,7 +17917,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.0904,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17927,7 +17927,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17937,7 +17937,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.5863,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17947,7 +17947,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0027,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17957,7 +17957,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.0055,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17967,7 +17967,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0027,
-    "Publications": 7.0
+    "Nashrlar \nПубликации": 7.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17977,7 +17977,7 @@
     "Subscribers": 158,
     "Scale": 43676,
     "ChannelAge": 5.9233,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17987,7 +17987,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.674,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -17997,7 +17997,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.4247,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18007,7 +18007,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.0082,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18017,7 +18017,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.1781,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18027,7 +18027,7 @@
     "Subscribers": 14,
     "Scale": 45137,
     "ChannelAge": 1.9205,
-    "Publications": 180.0
+    "Nashrlar \nПубликации": 180.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18037,7 +18037,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.0055,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18047,7 +18047,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.1699,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18057,7 +18057,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 6.9233,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18067,7 +18067,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18077,7 +18077,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18087,7 +18087,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.0849,
-    "Publications": 10.0
+    "Nashrlar \nПубликации": 10.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18097,7 +18097,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.2548,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18107,7 +18107,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.6685,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18117,7 +18117,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.0849,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18127,7 +18127,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.0877,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18137,7 +18137,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 6.0082,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18147,7 +18147,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.7589,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18157,7 +18157,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.5096,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18167,7 +18167,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.0932,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18177,7 +18177,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.263,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18187,7 +18187,7 @@
     "Subscribers": 15,
     "Scale": 45137,
     "ChannelAge": 2.0055,
-    "Publications": 194.0
+    "Nashrlar \nПубликации": 194.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18197,7 +18197,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.0904,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18207,7 +18207,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.2548,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18217,7 +18217,7 @@
     "Subscribers": 4,
     "Scale": 43311,
     "ChannelAge": 7.0082,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18227,7 +18227,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18237,7 +18237,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18247,7 +18247,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.1699,
-    "Publications": 13.0
+    "Nashrlar \nПубликации": 13.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18257,7 +18257,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.3397,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18267,7 +18267,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.7534,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18277,7 +18277,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.1699,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18287,7 +18287,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.1726,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18297,7 +18297,7 @@
     "Subscribers": 160,
     "Scale": 43676,
     "ChannelAge": 6.0932,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18307,7 +18307,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 10.8438,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18317,7 +18317,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.5945,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18327,7 +18327,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.1781,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18337,7 +18337,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.3479,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18347,7 +18347,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.0904,
-    "Publications": 223.0
+    "Nashrlar \nПубликации": 223.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18357,7 +18357,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.1753,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18367,7 +18367,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.3397,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18377,7 +18377,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.0932,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18387,7 +18387,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.3425,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18397,7 +18397,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.3425,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18407,7 +18407,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.2548,
-    "Publications": 15.0
+    "Nashrlar \nПубликации": 15.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18417,7 +18417,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18427,7 +18427,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.8384,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18437,7 +18437,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.2548,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18447,7 +18447,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.2575,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18457,7 +18457,7 @@
     "Subscribers": 162,
     "Scale": 43676,
     "ChannelAge": 6.1753,
-    "Publications": 802.0
+    "Nashrlar \nПубликации": 802.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18467,7 +18467,7 @@
     "Subscribers": 148,
     "Scale": 41942,
     "ChannelAge": 10.926,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18477,7 +18477,7 @@
     "Subscribers": 34,
     "Scale": 40938,
     "ChannelAge": 13.6767,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18487,7 +18487,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.2603,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18497,7 +18497,7 @@
     "Subscribers": 23,
     "Scale": 41758,
     "ChannelAge": 11.4301,
-    "Publications": 33.0
+    "Nashrlar \nПубликации": 33.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18507,7 +18507,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.1726,
-    "Publications": 248.0
+    "Nashrlar \nПубликации": 248.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18517,7 +18517,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.2575,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18527,7 +18527,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.4219,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18537,7 +18537,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.1753,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18547,7 +18547,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18557,7 +18557,7 @@
     "Subscribers": 2,
     "Scale": 45045,
     "ChannelAge": 2.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18567,7 +18567,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.337,
-    "Publications": 15.0
+    "Nashrlar \nПубликации": 15.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18577,7 +18577,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.5068,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18587,7 +18587,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 1.9205,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18597,7 +18597,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.337,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18607,7 +18607,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.3397,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18617,7 +18617,7 @@
     "Subscribers": 149,
     "Scale": 41942,
     "ChannelAge": 11.011,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18627,7 +18627,7 @@
     "Subscribers": 33,
     "Scale": 40938,
     "ChannelAge": 13.7616,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18637,7 +18637,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.3452,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18647,7 +18647,7 @@
     "Subscribers": 17,
     "Scale": 45137,
     "ChannelAge": 2.2575,
-    "Publications": 286.0
+    "Nashrlar \nПубликации": 286.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18657,7 +18657,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.3425,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18667,7 +18667,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.5068,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18677,7 +18677,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.2603,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18687,7 +18687,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.5096,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18697,7 +18697,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.4219,
-    "Publications": 16.0
+    "Nashrlar \nПубликации": 16.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18707,7 +18707,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.5918,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18717,7 +18717,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 2.0055,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18727,7 +18727,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.4219,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18737,7 +18737,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.4247,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18747,7 +18747,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 11.0932,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18757,7 +18757,7 @@
     "Subscribers": 32,
     "Scale": 40938,
     "ChannelAge": 13.8438,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18767,7 +18767,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.4274,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18777,7 +18777,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.3397,
-    "Publications": 306.0
+    "Nashrlar \nПубликации": 306.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18787,7 +18787,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.4247,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18797,7 +18797,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.589,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18807,7 +18807,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.3425,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18817,7 +18817,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.5918,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18827,7 +18827,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.5041,
-    "Publications": 16.0
+    "Nashrlar \nПубликации": 16.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18837,7 +18837,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.674,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18847,7 +18847,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 2.0877,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18857,7 +18857,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.5041,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18867,7 +18867,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.5068,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18877,7 +18877,7 @@
     "Subscribers": 147,
     "Scale": 41942,
     "ChannelAge": 11.1781,
-    "Publications": 97.0
+    "Nashrlar \nПубликации": 97.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18887,7 +18887,7 @@
     "Subscribers": 32,
     "Scale": 40938,
     "ChannelAge": 13.9288,
-    "Publications": 42.0
+    "Nashrlar \nПубликации": 42.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18897,7 +18897,7 @@
     "Subscribers": 31,
     "Scale": 42915,
     "ChannelAge": 8.5123,
-    "Publications": 22.0
+    "Nashrlar \nПубликации": 22.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18907,7 +18907,7 @@
     "Subscribers": 16,
     "Scale": 45137,
     "ChannelAge": 2.4247,
-    "Publications": 333.0
+    "Nashrlar \nПубликации": 333.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18917,7 +18917,7 @@
     "Subscribers": 6,
     "Scale": 45106,
     "ChannelAge": 2.5096,
-    "Publications": 282.0
+    "Nashrlar \nПубликации": 282.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18927,7 +18927,7 @@
     "Subscribers": 5,
     "Scale": 45411,
     "ChannelAge": 1.674,
-    "Publications": 5.0
+    "Nashrlar \nПубликации": 5.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18937,7 +18937,7 @@
     "Subscribers": 3,
     "Scale": 43311,
     "ChannelAge": 7.4274,
-    "Publications": 18.0
+    "Nashrlar \nПубликации": 18.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18947,7 +18947,7 @@
     "Subscribers": 3,
     "Scale": 44315,
     "ChannelAge": 4.6767,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18957,7 +18957,7 @@
     "Subscribers": 2,
     "Scale": 45442,
     "ChannelAge": 1.589,
-    "Publications": 16.0
+    "Nashrlar \nПубликации": 16.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18967,7 +18967,7 @@
     "Subscribers": 1,
     "Scale": 45015,
     "ChannelAge": 2.7589,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18977,7 +18977,7 @@
     "Subscribers": 1,
     "Scale": 45229,
     "ChannelAge": 2.1726,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18987,7 +18987,7 @@
     "Subscribers": 1,
     "Scale": 45442,
     "ChannelAge": 1.589,
-    "Publications": 1.0
+    "Nashrlar \nПубликации": 1.0
   },
   {
     "SOC_NET": "X_COM",
@@ -18997,7 +18997,7 @@
     "Subscribers": 1,
     "Scale": 43981,
     "ChannelAge": 5.5918,
-    "Publications": 0.0
+    "Nashrlar \nПубликации": 0.0
   },
   {
     "SOC_NET": "LINKEDIN",
@@ -19082,7 +19082,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_01",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1160,
     "EmployeeCount": "51-200"
@@ -19298,7 +19298,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_02",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1197,
     "EmployeeCount": "51-200"
@@ -19514,7 +19514,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_03",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1282,
     "EmployeeCount": "51-200"
@@ -19730,7 +19730,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_04",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1365,
     "EmployeeCount": "51-200"
@@ -19946,7 +19946,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_05",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1567,
     "EmployeeCount": "51-200"
@@ -20162,7 +20162,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_06",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1750,
     "EmployeeCount": "51-200"
@@ -20378,7 +20378,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_07",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 1903,
     "EmployeeCount": "51-200"
@@ -20594,7 +20594,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_08",
-    "OrgName": "SMART BANK",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2036,
     "EmployeeCount": "51-200"
@@ -20826,7 +20826,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_09",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2153,
     "EmployeeCount": "51-200"
@@ -21026,7 +21026,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_10",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2256,
     "EmployeeCount": "51-200"
@@ -21250,7 +21250,7 @@
   {
     "SOC_NET": "LINKEDIN",
     "Period": "2025_11",
-    "OrgName": "OPEN BANK (SMART BANK)",
+    "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank-uz",
     "Subscribers": 2374,
     "EmployeeCount": "51-200"
