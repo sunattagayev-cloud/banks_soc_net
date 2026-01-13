@@ -3359,6 +3359,15 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_12",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo",
+    "Subscribers": 1400,
+    "Likes": 600,
+    "LikeRate": 0.4286
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2025_12",
     "OrgName": "POYTAXT BANK",
     "ChannelLink": ".../Poytaxt/",
     "Subscribers": 1079,
