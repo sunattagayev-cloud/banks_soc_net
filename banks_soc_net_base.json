@@ -263,15 +263,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_01",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 112,
-    "Likes": 55,
-    "LikeRate": 0.4911
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_01",
     "OrgName": "SMART BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 99,
@@ -286,15 +277,6 @@
     "Subscribers": 97,
     "Likes": 67,
     "LikeRate": 0.6907
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_01",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 71,
-    "Likes": 44,
-    "LikeRate": 0.6197
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -551,15 +533,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_02",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 121,
-    "Likes": 60,
-    "LikeRate": 0.4959
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_02",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 121,
@@ -574,15 +547,6 @@
     "Subscribers": 101,
     "Likes": 47,
     "LikeRate": 0.4653
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_02",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 77,
-    "Likes": 49,
-    "LikeRate": 0.6364
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -839,15 +803,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_03",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 127,
-    "Likes": 64,
-    "LikeRate": 0.5039
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_03",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 121,
@@ -862,15 +817,6 @@
     "Subscribers": 106,
     "Likes": 50,
     "LikeRate": 0.4717
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_03",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 79,
-    "Likes": 49,
-    "LikeRate": 0.6203
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -1136,15 +1082,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_04",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 140,
-    "Likes": 69,
-    "LikeRate": 0.4929
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_04",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 122,
@@ -1168,15 +1105,6 @@
     "Subscribers": 92,
     "Likes": 62,
     "LikeRate": 0.6739
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_04",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 82,
-    "Likes": 51,
-    "LikeRate": 0.622
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -1451,29 +1379,11 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_05",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 145,
-    "Likes": 74,
-    "LikeRate": 0.5103
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_05",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 122,
     "Likes": 64,
     "LikeRate": 0.5246
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_05",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 82,
-    "Likes": 51,
-    "LikeRate": 0.622
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -1739,29 +1649,11 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_06",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 163,
-    "Likes": 88,
-    "LikeRate": 0.5399
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_06",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 122,
     "Likes": 65,
     "LikeRate": 0.5328
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_06",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 83,
-    "Likes": 52,
-    "LikeRate": 0.6265
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -2018,29 +1910,11 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_07",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 174,
-    "Likes": 98,
-    "LikeRate": 0.5632
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_07",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 122,
     "Likes": 65,
     "LikeRate": 0.5328
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_07",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 84,
-    "Likes": 53,
-    "LikeRate": 0.631
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -2315,29 +2189,11 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_08",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 182,
-    "Likes": 98,
-    "LikeRate": 0.5385
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_08",
     "OrgName": "MADAD INVEST BANK",
     "ChannelLink": ".../mybankuzb",
     "Subscribers": 123,
     "Likes": 65,
     "LikeRate": 0.5285
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_08",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 87,
-    "Likes": 53,
-    "LikeRate": 0.6092
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -2585,15 +2441,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_09",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 194,
-    "Likes": 188,
-    "LikeRate": 0.9691
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_09",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank.uzbekistan",
     "Subscribers": 186,
@@ -2608,15 +2455,6 @@
     "Subscribers": 122,
     "Likes": 65,
     "LikeRate": 0.5328
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_09",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 88,
-    "Likes": 78,
-    "LikeRate": 0.8864
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -2855,15 +2693,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_10",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 221,
-    "Likes": 188,
-    "LikeRate": 0.8507
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_10",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank.uzbekistan",
     "Subscribers": 190,
@@ -2878,15 +2707,6 @@
     "Subscribers": 124,
     "Likes": 65,
     "LikeRate": 0.5242
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_10",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 88,
-    "Likes": 78,
-    "LikeRate": 0.8864
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -3134,15 +2954,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_11",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 229,
-    "Likes": 188,
-    "LikeRate": 0.821
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_11",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank.uzbekistan",
     "Subscribers": 194,
@@ -3157,15 +2968,6 @@
     "Subscribers": 125,
     "Likes": 65,
     "LikeRate": 0.52
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_11",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 91,
-    "Likes": 78,
-    "LikeRate": 0.8571
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -3422,15 +3224,6 @@
   {
     "SOC_NET": "FACEBOOK",
     "Period": "2025_12",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 239,
-    "Likes": 188,
-    "LikeRate": 0.7866
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_12",
     "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 237,
@@ -3454,15 +3247,6 @@
     "Subscribers": 125,
     "Likes": 65,
     "LikeRate": 0.52
-  },
-  {
-    "SOC_NET": "FACEBOOK",
-    "Period": "2025_12",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 95,
-    "Likes": 78,
-    "LikeRate": 0.8211
   },
   {
     "SOC_NET": "FACEBOOK",
@@ -4103,30 +3887,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_01",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 4233,
-    "Publications": 151,
-    "AvgPubPerMonth": 13.0,
-    "ChannelAge": 1.0,
-    "ChannelAgeText": "1 yil ",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_01",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 1959,
-    "Publications": 29,
-    "AvgPubPerMonth": 2.0,
-    "ChannelAge": 1.8,
-    "ChannelAgeText": "1 yil 9 oy",
-    "RegistrationDate": "2023-05-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_01",
     "OrgName": "APEX BANK",
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 1959,
@@ -4499,18 +4259,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_02",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 5127,
-    "Publications": 166,
-    "AvgPubPerMonth": 13.0,
-    "ChannelAge": 1.1,
-    "ChannelAgeText": "1 yil ",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_02",
     "OrgName": "SODEROT BANK",
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4239,
@@ -4543,18 +4291,6 @@
     "ChannelAge": 2.2,
     "ChannelAgeText": "2 yil 2 oy",
     "RegistrationDate": "2022-12-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_02",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 2385,
-    "Publications": 38,
-    "AvgPubPerMonth": 2.0,
-    "ChannelAge": 1.8,
-    "ChannelAgeText": "1 yil 9 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -4871,18 +4607,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_03",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 6167,
-    "Publications": 175,
-    "AvgPubPerMonth": 13.0,
-    "ChannelAge": 1.2,
-    "ChannelAgeText": "1 yil 1 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_03",
     "OrgName": "HAYOT BANK",
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6133,
@@ -4951,18 +4675,6 @@
     "ChannelAge": 2.3,
     "ChannelAgeText": "2 yil 3 oy",
     "RegistrationDate": "2022-12-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_03",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 3266,
-    "Publications": 50,
-    "AvgPubPerMonth": 3.0,
-    "ChannelAge": 1.9,
-    "ChannelAgeText": "1 yil 11 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -5279,18 +4991,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_04",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 7327,
-    "Publications": 200,
-    "AvgPubPerMonth": 14.0,
-    "ChannelAge": 1.2,
-    "ChannelAgeText": "1 yil 2 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_04",
     "OrgName": "UNIVERSAL BANK",
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6244,
@@ -5359,18 +5059,6 @@
     "ChannelAge": 4.4,
     "ChannelAgeText": "4 yil 4 oy",
     "RegistrationDate": "2020-12-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_04",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 3532,
-    "Publications": 65,
-    "AvgPubPerMonth": 3.0,
-    "ChannelAge": 2.0,
-    "ChannelAgeText": "2 yil ",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -5687,18 +5375,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_05",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 8266,
-    "Publications": 221,
-    "AvgPubPerMonth": 14.0,
-    "ChannelAge": 1.3,
-    "ChannelAgeText": "1 yil 3 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_05",
     "OrgName": "OPEN BANK",
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 7426,
@@ -5767,18 +5443,6 @@
     "ChannelAge": 4.5,
     "ChannelAgeText": "4 yil 5 oy",
     "RegistrationDate": "2020-12-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_05",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 3870,
-    "Publications": 81,
-    "AvgPubPerMonth": 4.0,
-    "ChannelAge": 2.1,
-    "ChannelAgeText": "2 yil 1 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -6095,18 +5759,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_06",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 9280,
-    "Publications": 249,
-    "AvgPubPerMonth": 15.0,
-    "ChannelAge": 1.4,
-    "ChannelAgeText": "1 yil 4 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_06",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8786,
@@ -6163,18 +5815,6 @@
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_06",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 4594,
-    "Publications": 98,
-    "AvgPubPerMonth": 4.0,
-    "ChannelAge": 2.2,
-    "ChannelAgeText": "2 yil 2 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -6503,18 +6143,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_07",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 9833,
-    "Publications": 270,
-    "AvgPubPerMonth": 16.0,
-    "ChannelAge": 1.5,
-    "ChannelAgeText": "1 yil 5 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_07",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8778,
@@ -6571,18 +6199,6 @@
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_07",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 4561,
-    "Publications": 115,
-    "AvgPubPerMonth": 5.0,
-    "ChannelAge": 2.3,
-    "ChannelAgeText": "2 yil 3 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -6911,18 +6527,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_08",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 10000,
-    "Publications": 298,
-    "AvgPubPerMonth": 16.0,
-    "ChannelAge": 1.6,
-    "ChannelAgeText": "1 yil 6 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_08",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8766,
@@ -6979,18 +6583,6 @@
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_08",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 4573,
-    "Publications": 130,
-    "AvgPubPerMonth": 5.0,
-    "ChannelAge": 2.3,
-    "ChannelAgeText": "2 yil 4 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -7307,18 +6899,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_09",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 10000,
-    "Publications": 330,
-    "AvgPubPerMonth": 17.0,
-    "ChannelAge": 1.7,
-    "ChannelAgeText": "1 yil 7 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_09",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8758,
@@ -7375,18 +6955,6 @@
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_09",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 4650,
-    "Publications": 147,
-    "AvgPubPerMonth": 6.0,
-    "ChannelAge": 2.4,
-    "ChannelAgeText": "2 yil 5 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -7715,18 +7283,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_10",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 11000,
-    "Publications": 350,
-    "AvgPubPerMonth": 17.0,
-    "ChannelAge": 1.7,
-    "ChannelAgeText": "1 yil 8 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_10",
     "OrgName": "ZIRAAT BANK UZBEKISTAN",
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8818,
@@ -7783,18 +7339,6 @@
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_10",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 4743,
-    "Publications": 159,
-    "AvgPubPerMonth": 6.0,
-    "ChannelAge": 2.5,
-    "ChannelAgeText": "2 yil 6 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8111,18 +7655,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_11",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 11000,
-    "Publications": 365,
-    "AvgPubPerMonth": 17.0,
-    "ChannelAge": 1.8,
-    "ChannelAgeText": "1 yil 9 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_11",
     "OrgName": "APEX BANK",
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 9006,
@@ -8179,18 +7711,6 @@
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_11",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 5197,
-    "Publications": 176,
-    "AvgPubPerMonth": 6.0,
-    "ChannelAge": 2.6,
-    "ChannelAgeText": "2 yil 7 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8531,18 +8051,6 @@
   {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_12",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank.business.official",
-    "Subscribers": 11700,
-    "Publications": 376,
-    "AvgPubPerMonth": 17.0,
-    "ChannelAge": 1.9,
-    "ChannelAgeText": "1 yil 10 oy",
-    "RegistrationDate": "2024-02-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_12",
     "OrgName": "APEX BANK",
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 11200,
@@ -8587,18 +8095,6 @@
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2019-04-01"
-  },
-  {
-    "SOC_NET": "INSTAGRAM",
-    "Period": "2025_12",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank.official",
-    "Subscribers": 6166,
-    "Publications": 198,
-    "AvgPubPerMonth": 7.0,
-    "ChannelAge": 2.7,
-    "ChannelAgeText": "2 yil 8 oy",
-    "RegistrationDate": "2023-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9305,20 +8801,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_01",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 2787,
-    "SubChange": -293.0,
-    "Publications": 90,
-    "PubChange": 23.0,
-    "ReachPerPost": 3448,
-    "AdReachPerPost": 1153,
-    "ChannelAge": 0.9452,
-    "ChannelAgeText": "11 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_01",
     "OrgName": "GARANT BANK",
     "ChannelLink": ".../garantbankuz_official",
     "Subscribers": 2301,
@@ -9725,20 +9207,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_02",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 2580,
-    "SubChange": -207.0,
-    "Publications": 158,
-    "PubChange": 83.0,
-    "ReachPerPost": 1710,
-    "AdReachPerPost": 817,
-    "ChannelAge": 1.0219,
-    "ChannelAgeText": "1 yil "
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_02",
     "OrgName": "GARANT BANK",
     "ChannelLink": ".../garantbankuz_official",
     "Subscribers": 2267,
@@ -9861,20 +9329,6 @@
     "AdReachPerPost": 284,
     "ChannelAge": 2.1315,
     "ChannelAgeText": "2 yil 1 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_02",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 772,
-    "SubChange": -38.0,
-    "Publications": 467,
-    "PubChange": 58.0,
-    "ReachPerPost": 1009,
-    "AdReachPerPost": 133,
-    "ChannelAge": 1.0164,
-    "ChannelAgeText": "1 yil "
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -10187,20 +9641,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_03",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 3731,
-    "SubChange": 1168.0,
-    "Publications": 229,
-    "PubChange": 72.0,
-    "ReachPerPost": 3128,
-    "AdReachPerPost": 790,
-    "ChannelAge": 1.1068,
-    "ChannelAgeText": "1 yil 1 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_03",
     "OrgName": "GARANT BANK",
     "ChannelLink": ".../garantbankuz_official",
     "Subscribers": 2231,
@@ -10323,20 +9763,6 @@
     "AdReachPerPost": 264,
     "ChannelAge": 2.2164,
     "ChannelAgeText": "2 yil 2 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_03",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 742,
-    "SubChange": -29.0,
-    "Publications": 493,
-    "PubChange": 27.0,
-    "ReachPerPost": 809,
-    "AdReachPerPost": 143,
-    "ChannelAge": 1.1014,
-    "ChannelAgeText": "1 yil 1 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -10649,20 +10075,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_04",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 4326,
-    "SubChange": 595.0,
-    "Publications": 309,
-    "PubChange": 82.0,
-    "ReachPerPost": 3985,
-    "AdReachPerPost": 1284,
-    "ChannelAge": 1.189,
-    "ChannelAgeText": "1 yil 2 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_04",
     "OrgName": "OCTOBANK",
     "ChannelLink": ".../Octobank_AJ",
     "Subscribers": 2225,
@@ -10785,20 +10197,6 @@
     "AdReachPerPost": 318,
     "ChannelAge": 2.2986,
     "ChannelAgeText": "2 yil 3 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_04",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 705,
-    "SubChange": -338.0,
-    "Publications": 575,
-    "PubChange": 92.0,
-    "ReachPerPost": 207,
-    "AdReachPerPost": 107,
-    "ChannelAge": 1.1836,
-    "ChannelAgeText": "1 yil 2 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -11111,20 +10509,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_05",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 3863,
-    "SubChange": -439.0,
-    "Publications": 393,
-    "PubChange": 84.0,
-    "ReachPerPost": 2070,
-    "AdReachPerPost": 938,
-    "ChannelAge": 1.274,
-    "ChannelAgeText": "1 yil 3 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_05",
     "OrgName": "OCTOBANK",
     "ChannelLink": ".../Octobank_AJ",
     "Subscribers": 2258,
@@ -11261,20 +10645,6 @@
     "AdReachPerPost": 276,
     "ChannelAge": 0.8767,
     "ChannelAgeText": "10 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_05",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 666,
-    "SubChange": -37.0,
-    "Publications": 641,
-    "PubChange": 56.0,
-    "ReachPerPost": 235,
-    "AdReachPerPost": 103,
-    "ChannelAge": 1.2685,
-    "ChannelAgeText": "1 yil 3 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -11573,20 +10943,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_06",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 3636,
-    "SubChange": -227.0,
-    "Publications": 446,
-    "PubChange": 56.0,
-    "ReachPerPost": 1880,
-    "AdReachPerPost": 869,
-    "ChannelAge": 1.3562,
-    "ChannelAgeText": "1 yil 4 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_06",
     "OrgName": "OCTOBANK",
     "ChannelLink": ".../Octobank_AJ",
     "Subscribers": 2367,
@@ -11723,20 +11079,6 @@
     "AdReachPerPost": 283,
     "ChannelAge": 0.9589,
     "ChannelAgeText": "11 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_06",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 672,
-    "SubChange": 6.0,
-    "Publications": 711,
-    "PubChange": 70.0,
-    "ReachPerPost": 240,
-    "AdReachPerPost": 79,
-    "ChannelAge": 1.3507,
-    "ChannelAgeText": "1 yil 4 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -12035,20 +11377,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_07",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 4557,
-    "SubChange": 934.0,
-    "Publications": 526,
-    "PubChange": 83.0,
-    "ReachPerPost": 4058,
-    "AdReachPerPost": 1259,
-    "ChannelAge": 1.4411,
-    "ChannelAgeText": "1 yil 5 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_07",
     "OrgName": "ASIA ALLIANCE BANK",
     "ChannelLink": ".../asiaalliancebank",
     "Subscribers": 4505,
@@ -12185,20 +11513,6 @@
     "AdReachPerPost": 267,
     "ChannelAge": 1.0438,
     "ChannelAgeText": "1 yil "
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_07",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 645,
-    "SubChange": -25.0,
-    "Publications": 797,
-    "PubChange": 88.0,
-    "ReachPerPost": 184,
-    "AdReachPerPost": 72,
-    "ChannelAge": 1.4356,
-    "ChannelAgeText": "1 yil 5 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -12511,20 +11825,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_08",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 4380,
-    "SubChange": -147.0,
-    "Publications": 580,
-    "PubChange": 56.0,
-    "ReachPerPost": 2646,
-    "AdReachPerPost": 988,
-    "ChannelAge": 1.526,
-    "ChannelAgeText": "1 yil 6 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_08",
     "OrgName": "UNIVERSAL BANK",
     "ChannelLink": ".../myuniversalbank",
     "Subscribers": 2538,
@@ -12647,20 +11947,6 @@
     "AdReachPerPost": 270,
     "ChannelAge": 1.1288,
     "ChannelAgeText": "1 yil 1 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_08",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 626,
-    "SubChange": -18.0,
-    "Publications": 867,
-    "PubChange": 70.0,
-    "ReachPerPost": 165,
-    "AdReachPerPost": 73,
-    "ChannelAge": 1.5205,
-    "ChannelAgeText": "1 yil 6 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -12959,20 +12245,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_09",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 4503,
-    "SubChange": 128.0,
-    "Publications": 649,
-    "PubChange": 78.0,
-    "ReachPerPost": 2724,
-    "AdReachPerPost": 963,
-    "ChannelAge": 1.6082,
-    "ChannelAgeText": "1 yil 7 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_09",
     "OrgName": "ASIA ALLIANCE BANK",
     "ChannelLink": ".../asiaalliancebank",
     "Subscribers": 4428,
@@ -13109,20 +12381,6 @@
     "AdReachPerPost": 300,
     "ChannelAge": 1.211,
     "ChannelAgeText": "1 yil 2 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_09",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 606,
-    "SubChange": -20.0,
-    "Publications": 950,
-    "PubChange": 83.0,
-    "ReachPerPost": 144,
-    "AdReachPerPost": 75,
-    "ChannelAge": 1.6027,
-    "ChannelAgeText": "1 yil 7 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -13421,20 +12679,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_10",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 5240,
-    "SubChange": 761.0,
-    "Publications": 687,
-    "PubChange": 16.0,
-    "ReachPerPost": 5728,
-    "AdReachPerPost": 1520,
-    "ChannelAge": 1.6932,
-    "ChannelAgeText": "1 yil 8 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_10",
     "OrgName": "ASIA ALLIANCE BANK",
     "ChannelLink": ".../asiaalliancebank",
     "Subscribers": 4545,
@@ -13571,20 +12815,6 @@
     "AdReachPerPost": 250,
     "ChannelAge": 1.2959,
     "ChannelAgeText": "1 yil 3 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_10",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 664,
-    "SubChange": 58.0,
-    "Publications": 993,
-    "PubChange": 23.0,
-    "ReachPerPost": 5660,
-    "AdReachPerPost": 7377,
-    "ChannelAge": 1.6877,
-    "ChannelAgeText": "1 yil 8 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -13883,20 +13113,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_11",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 5665,
-    "SubChange": 442.0,
-    "Publications": 754,
-    "PubChange": 34.0,
-    "ReachPerPost": 3219,
-    "AdReachPerPost": 1569,
-    "ChannelAge": 1.7753,
-    "ChannelAgeText": "1 yil 9 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_11",
     "OrgName": "APEX BANK",
     "ChannelLink": ".../apexbank_uzb",
     "Subscribers": 4987,
@@ -14033,20 +13249,6 @@
     "AdReachPerPost": 256,
     "ChannelAge": 1.3781,
     "ChannelAgeText": "1 yil 4 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_11",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 628,
-    "SubChange": -34.0,
-    "Publications": 1025,
-    "PubChange": 17.0,
-    "ReachPerPost": 1397,
-    "AdReachPerPost": 74,
-    "ChannelAge": 1.7699,
-    "ChannelAgeText": "1 yil 9 oy"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -14345,20 +13547,6 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2025_12",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../yangibank_official",
-    "Subscribers": 6148,
-    "SubChange": 520.0,
-    "Publications": 860,
-    "PubChange": 30.0,
-    "ReachPerPost": 2824,
-    "AdReachPerPost": 2179,
-    "ChannelAge": 1.8603,
-    "ChannelAgeText": "1 yil 10 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_12",
     "OrgName": "APEX BANK",
     "ChannelLink": ".../apexbank_uzb",
     "Subscribers": 4985,
@@ -14495,34 +13683,6 @@
     "AdReachPerPost": 252,
     "ChannelAge": 1.463,
     "ChannelAgeText": "1 yil 5 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2025_12",
-    "OrgName": "YANGI BANK (business)",
-    "ChannelLink": ".../yangibank_business_official",
-    "Subscribers": 664,
-    "SubChange": 34.0,
-    "Publications": 1063,
-    "PubChange": 14.0,
-    "ReachPerPost": 2593,
-    "AdReachPerPost": 161,
-    "ChannelAge": 1.8548,
-    "ChannelAgeText": "1 yil 10 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2026_01",
-    "OrgName": null,
-    "ChannelLink": null,
-    "Subscribers": "Jami | Всего",
-    "SubChange": null,
-    "Publications": "Jami | Всего",
-    "PubChange": null,
-    "ReachPerPost": "Охват 1 публикации",
-    "AdReachPerPost": "Рекламный охват 1 публикации",
-    "ChannelAge": null,
-    "ChannelAgeText": null
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -14825,18 +13985,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_01",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 355,
-    "Publications": 21,
-    "AvgPubPerMonth": 3,
-    "Views": 4123,
-    "AvgViewsPerMonth": 508,
-    "ChannelAge": 0.7
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_01",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 282,
@@ -15097,18 +14245,6 @@
     "Views": 88175,
     "AvgViewsPerMonth": 1577,
     "ChannelAge": 4.7
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_02",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 397,
-    "Publications": 31,
-    "AvgPubPerMonth": 4,
-    "Views": 7195,
-    "AvgViewsPerMonth": 796,
-    "ChannelAge": 0.8
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -15377,18 +14513,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_03",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 434,
-    "Publications": 33,
-    "AvgPubPerMonth": 4,
-    "Views": 10647,
-    "AvgViewsPerMonth": 1059,
-    "ChannelAge": 0.8
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_03",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 293,
@@ -15649,18 +14773,6 @@
     "Views": 90846,
     "AvgViewsPerMonth": 1569,
     "ChannelAge": 4.8
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_04",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 482,
-    "Publications": 55,
-    "AvgPubPerMonth": 5,
-    "Views": 28830,
-    "AvgViewsPerMonth": 2610,
-    "ChannelAge": 0.9
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -15929,18 +15041,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_05",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 525,
-    "Publications": 80,
-    "AvgPubPerMonth": 7,
-    "Views": 50340,
-    "AvgViewsPerMonth": 4173,
-    "ChannelAge": 1.0
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_05",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 301,
@@ -16201,18 +15301,6 @@
     "Views": 94262,
     "AvgViewsPerMonth": 1573,
     "ChannelAge": 5.0
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_06",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 560,
-    "Publications": 102,
-    "AvgPubPerMonth": 8,
-    "Views": 66394,
-    "AvgViewsPerMonth": 5087,
-    "ChannelAge": 1.1
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -16481,18 +15569,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_07",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 598,
-    "Publications": 123,
-    "AvgPubPerMonth": 9,
-    "Views": 88130,
-    "AvgViewsPerMonth": 6264,
-    "ChannelAge": 1.2
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_07",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 306,
@@ -16753,18 +15829,6 @@
     "Views": 98517,
     "AvgViewsPerMonth": 1590,
     "ChannelAge": 5.2
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_08",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 647,
-    "Publications": 169,
-    "AvgPubPerMonth": 12,
-    "Views": 173482,
-    "AvgViewsPerMonth": 11497,
-    "ChannelAge": 1.3
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -17033,18 +16097,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_09",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 682,
-    "Publications": 204,
-    "AvgPubPerMonth": 13,
-    "Views": 207070,
-    "AvgViewsPerMonth": 12881,
-    "ChannelAge": 1.3
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_09",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 306,
@@ -17305,18 +16357,6 @@
     "Views": 102478,
     "AvgViewsPerMonth": 1602,
     "ChannelAge": 5.3
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_10",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 717,
-    "Publications": 228,
-    "AvgPubPerMonth": 14,
-    "Views": 227599,
-    "AvgViewsPerMonth": 13314,
-    "ChannelAge": 1.4
   },
   {
     "SOC_NET": "YOUTUBE",
@@ -17585,18 +16625,6 @@
   {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_11",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 743,
-    "Publications": 243,
-    "AvgPubPerMonth": 14,
-    "Views": 247458,
-    "AvgViewsPerMonth": 13686,
-    "ChannelAge": 1.51
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_11",
     "OrgName": "KAPITALBANK",
     "ChannelLink": ".../@КапитальныйКанал",
     "Subscribers": 313,
@@ -17857,18 +16885,6 @@
     "Views": 105786,
     "AvgViewsPerMonth": 1608,
     "ChannelAge": 5.4986
-  },
-  {
-    "SOC_NET": "YOUTUBE",
-    "Period": "2025_12",
-    "OrgName": "YANGI BANK",
-    "ChannelLink": ".../@Yangibank",
-    "Subscribers": 797,
-    "Publications": 254,
-    "AvgPubPerMonth": 14,
-    "Views": 266141,
-    "AvgViewsPerMonth": 13972,
-    "ChannelAge": 1.5918
   },
   {
     "SOC_NET": "YOUTUBE",
