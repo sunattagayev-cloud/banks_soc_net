@@ -3816,13 +3816,301 @@
     "LikeRate": 0.52
   },
   {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank.uz",
+    "Subscribers": 37407,
+    "Likes": 30000,
+    "LikeRate": 0.802
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../HamkorBank.uz",
+    "Subscribers": 28110,
+    "Likes": 26000,
+    "LikeRate": 0.9249
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../ipakyulibankuz/",
+    "Subscribers": 24259,
+    "Likes": 20000,
+    "LikeRate": 0.8244
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "O`ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz",
+    "Subscribers": 20297,
+    "Likes": 18000,
+    "LikeRate": 0.8868
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../InFinBank/",
+    "Subscribers": 18550,
+    "Likes": 15000,
+    "LikeRate": 0.8086
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank.uzb",
+    "Subscribers": 16783,
+    "Likes": 9200,
+    "LikeRate": 0.5482
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank.aj",
+    "Subscribers": 13877,
+    "Likes": 10000,
+    "LikeRate": 0.7206
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuz",
+    "Subscribers": 12150,
+    "Likes": 8100,
+    "LikeRate": 0.6667
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbank/",
+    "Subscribers": 10314,
+    "Likes": 7800,
+    "LikeRate": 0.7563
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 9752,
+    "Likes": 7100,
+    "LikeRate": 0.7281
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../uznbu",
+    "Subscribers": 9465,
+    "Likes": 8200,
+    "LikeRate": 0.8663
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb.uz",
+    "Subscribers": 9104,
+    "Likes": 7000,
+    "LikeRate": 0.7689
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../AsiaAllianceBank/",
+    "Subscribers": 9045,
+    "Likes": 8100,
+    "LikeRate": 0.8955
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank",
+    "Subscribers": 8347,
+    "Likes": 7800,
+    "LikeRate": 0.9345
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebank.uz",
+    "Subscribers": 7640,
+    "Likes": 6500,
+    "LikeRate": 0.8508
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbank.uz/",
+    "Subscribers": 6738,
+    "Likes": 5700,
+    "LikeRate": 0.8459
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank.uz",
+    "Subscribers": 5700,
+    "Likes": 4800,
+    "LikeRate": 0.8421
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank/",
+    "Subscribers": 5148,
+    "Likes": 4500,
+    "LikeRate": 0.8741
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbank.uzb",
+    "Subscribers": 4999,
+    "Likes": 4700,
+    "LikeRate": 0.9402
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank/",
+    "Subscribers": 4815,
+    "Likes": 4200,
+    "LikeRate": 0.8723
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabankofficial/",
+    "Subscribers": 2590,
+    "Likes": 1400,
+    "LikeRate": 0.5405
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo",
+    "Subscribers": 1563,
+    "Likes": 600,
+    "LikeRate": 0.3839
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../Poytaxt/",
+    "Subscribers": 1077,
+    "Likes": 980,
+    "LikeRate": 0.9099
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbank.uz",
+    "Subscribers": 688,
+    "Likes": 572,
+    "LikeRate": 0.8314
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../profile.php?id=100090053345078",
+    "Subscribers": 489,
+    "Likes": 179,
+    "LikeRate": 0.3661
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank.uz",
+    "Subscribers": 370,
+    "Likes": 53,
+    "LikeRate": 0.1432
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank",
+    "Subscribers": 348,
+    "Likes": 244,
+    "LikeRate": 0.7011
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../profile.php?id=61575940120585",
+    "Subscribers": 330,
+    "Likes": 56,
+    "LikeRate": 0.1697
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "SODEROT BANK",
+    "ChannelLink": ".../Saderatbank.Tahskent",
+    "Subscribers": 299,
+    "Likes": 287,
+    "LikeRate": 0.9599
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../openbank.uzb",
+    "Subscribers": 242,
+    "Likes": 184,
+    "LikeRate": 0.7603
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbank.uzbekistan",
+    "Subscribers": 202,
+    "Likes": 160,
+    "LikeRate": 0.7921
+  },
+  {
+    "SOC_NET": "FACEBOOK",
+    "Period": "2026_03",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybankuzb",
+    "Subscribers": 126,
+    "Likes": 65,
+    "LikeRate": 0.5159
+  },
+  {
     "SOC_NET": "INSTAGRAM",
     "Period": "2025_01",
     "OrgName": "ANOR BANK",
     "ChannelLink": ".../anorbank/",
     "Subscribers": 152000,
     "Publications": 910,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.0,
     "ChannelAgeText": "5 yil ",
     "RegistrationDate": "2020-02-01"
@@ -3834,7 +4122,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 105000,
     "Publications": 1292,
-    "AvgPubPerMonth": 24.0,
+    "AvgPubPerMonth": 24,
     "ChannelAge": 4.7,
     "ChannelAgeText": "4 yil 8 oy",
     "RegistrationDate": "2020-06-01"
@@ -3846,7 +4134,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 84000,
     "Publications": 1043,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2018-06-01"
@@ -3858,7 +4146,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 68000,
     "Publications": 1035,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.9,
     "ChannelAgeText": "7 yil 11 oy",
     "RegistrationDate": "2017-03-01"
@@ -3870,7 +4158,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 50000,
     "Publications": 691,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2017-10-01"
@@ -3882,7 +4170,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 47000,
     "Publications": 1743,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-02-01"
@@ -3894,7 +4182,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 46000,
     "Publications": 1482,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-05-01"
@@ -3906,7 +4194,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 43000,
     "Publications": 1050,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.0,
     "ChannelAgeText": "8 yil ",
     "RegistrationDate": "2017-02-01"
@@ -3918,7 +4206,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 38000,
     "Publications": 1207,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2018-11-01"
@@ -3930,7 +4218,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 31000,
     "Publications": 592,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-01-01"
@@ -3942,7 +4230,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 31000,
     "Publications": 1340,
-    "AvgPubPerMonth": 13.0,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 8.6,
     "ChannelAgeText": "8 yil 7 oy",
     "RegistrationDate": "2016-07-01"
@@ -3954,7 +4242,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 30000,
     "Publications": 130,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.2,
     "ChannelAgeText": "2 yil 2 oy",
     "RegistrationDate": "2022-12-01"
@@ -3966,7 +4254,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 29000,
     "Publications": 25,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 0.6,
     "ChannelAgeText": "7 oy",
     "RegistrationDate": "2024-07-01"
@@ -3978,7 +4266,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 25000,
     "Publications": 1177,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2018-08-01"
@@ -3990,7 +4278,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 24000,
     "Publications": 1438,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2019-05-01"
@@ -4002,7 +4290,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 975,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2018-12-01"
@@ -4014,7 +4302,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 20000,
     "Publications": 913,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
     "RegistrationDate": "2019-12-01"
@@ -4026,7 +4314,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 19000,
     "Publications": 1517,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-05-01"
@@ -4038,7 +4326,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1133,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 10.9,
     "ChannelAgeText": "10 yil 11 oy",
     "RegistrationDate": "2014-03-01"
@@ -4050,7 +4338,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2021,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 9.1,
     "ChannelAgeText": "9 yil 1 oy",
     "RegistrationDate": "2016-01-01"
@@ -4062,7 +4350,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 12000,
     "Publications": 972,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 3 oy",
     "RegistrationDate": "2019-11-01"
@@ -4074,7 +4362,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 12000,
     "Publications": 751,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2019-10-01"
@@ -4086,7 +4374,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 10000,
     "Publications": 733,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 9.1,
     "ChannelAgeText": "9 yil 1 oy",
     "RegistrationDate": "2016-01-01"
@@ -4098,7 +4386,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8847,
     "Publications": 370,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-02-01"
@@ -4110,7 +4398,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 7092,
     "Publications": 684,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-03-01"
@@ -4122,7 +4410,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6143,
     "Publications": 140,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.5,
     "ChannelAgeText": "2 yil 6 oy",
     "RegistrationDate": "2022-08-01"
@@ -4134,7 +4422,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6028,
     "Publications": 891,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-05-01"
@@ -4146,7 +4434,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6013,
     "Publications": 365,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 10 oy",
     "RegistrationDate": "2019-04-01"
@@ -4158,7 +4446,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4251,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.2,
     "ChannelAgeText": "4 yil 2 oy",
     "RegistrationDate": "2020-12-01"
@@ -4170,7 +4458,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 1959,
     "Publications": 22,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 2.9,
     "ChannelAgeText": "2 yil 11 oy",
     "RegistrationDate": "2022-03-01"
@@ -4182,7 +4470,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 1773,
     "Publications": 77,
-    "AvgPubPerMonth": 3.0,
+    "AvgPubPerMonth": 3,
     "ChannelAge": 2.2,
     "ChannelAgeText": "2 yil 2 oy",
     "RegistrationDate": "2022-12-01"
@@ -4194,7 +4482,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 756,
     "Publications": 65,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.8,
     "ChannelAgeText": "3 yil 9 oy",
     "RegistrationDate": "2021-05-01"
@@ -4206,7 +4494,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 147000,
     "Publications": 925,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.1,
     "ChannelAgeText": "5 yil ",
     "RegistrationDate": "2020-02-01"
@@ -4218,7 +4506,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 122000,
     "Publications": 1302,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 4.7,
     "ChannelAgeText": "4 yil 8 oy",
     "RegistrationDate": "2020-06-01"
@@ -4230,7 +4518,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 85000,
     "Publications": 1052,
-    "AvgPubPerMonth": 13.0,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-06-01"
@@ -4242,7 +4530,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 68000,
     "Publications": 1038,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.0,
     "ChannelAgeText": "8 yil ",
     "RegistrationDate": "2017-03-01"
@@ -4254,7 +4542,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 50000,
     "Publications": 699,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2017-10-01"
@@ -4266,7 +4554,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 48000,
     "Publications": 1754,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-02-01"
@@ -4278,7 +4566,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 46000,
     "Publications": 1508,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-05-01"
@@ -4290,7 +4578,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 43000,
     "Publications": 1062,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.1,
     "ChannelAgeText": "8 yil ",
     "RegistrationDate": "2017-02-01"
@@ -4302,7 +4590,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 40000,
     "Publications": 1213,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2018-11-01"
@@ -4314,7 +4602,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 32000,
     "Publications": 31,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 0.7,
     "ChannelAgeText": "7 oy",
     "RegistrationDate": "2024-07-01"
@@ -4326,7 +4614,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 32000,
     "Publications": 141,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 2.2,
     "ChannelAgeText": "2 yil 2 oy",
     "RegistrationDate": "2022-12-01"
@@ -4338,7 +4626,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 32000,
     "Publications": 594,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-01-01"
@@ -4350,7 +4638,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 31000,
     "Publications": 1361,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 8.7,
     "ChannelAgeText": "8 yil 8 oy",
     "RegistrationDate": "2016-07-01"
@@ -4362,7 +4650,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 27000,
     "Publications": 1201,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2018-08-01"
@@ -4374,7 +4662,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 25000,
     "Publications": 1456,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 10 oy",
     "RegistrationDate": "2019-05-01"
@@ -4386,7 +4674,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 988,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2018-12-01"
@@ -4398,7 +4686,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 20000,
     "Publications": 924,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
     "RegistrationDate": "2019-12-01"
@@ -4410,7 +4698,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 19000,
     "Publications": 1546,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-05-01"
@@ -4422,7 +4710,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1139,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.0,
     "ChannelAgeText": "11 yil ",
     "RegistrationDate": "2014-03-01"
@@ -4434,7 +4722,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2057,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 9.2,
     "ChannelAgeText": "9 yil 2 oy",
     "RegistrationDate": "2016-01-01"
@@ -4446,7 +4734,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 12000,
     "Publications": 978,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 3 oy",
     "RegistrationDate": "2019-11-01"
@@ -4458,7 +4746,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 12000,
     "Publications": 758,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.4,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2019-10-01"
@@ -4470,7 +4758,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 11000,
     "Publications": 748,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 9.2,
     "ChannelAgeText": "9 yil 2 oy",
     "RegistrationDate": "2016-01-01"
@@ -4482,7 +4770,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8829,
     "Publications": 370,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-02-01"
@@ -4494,7 +4782,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 7215,
     "Publications": 696,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-03-01"
@@ -4506,7 +4794,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6173,
     "Publications": 140,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.6,
     "ChannelAgeText": "2 yil 6 oy",
     "RegistrationDate": "2022-08-01"
@@ -4518,7 +4806,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6049,
     "Publications": 903,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-05-01"
@@ -4530,7 +4818,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6026,
     "Publications": 369,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-04-01"
@@ -4542,7 +4830,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4239,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.2,
     "ChannelAgeText": "4 yil 2 oy",
     "RegistrationDate": "2020-12-01"
@@ -4554,7 +4842,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 3821,
     "Publications": 22,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.0,
     "ChannelAgeText": "3 yil ",
     "RegistrationDate": "2022-03-01"
@@ -4566,7 +4854,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3258,
     "Publications": 82,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.2,
     "ChannelAgeText": "2 yil 2 oy",
     "RegistrationDate": "2022-12-01"
@@ -4578,7 +4866,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 762,
     "Publications": 68,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.8,
     "ChannelAgeText": "3 yil 9 oy",
     "RegistrationDate": "2021-05-01"
@@ -4590,7 +4878,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 945,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 1 oy",
     "RegistrationDate": "2020-02-01"
@@ -4602,7 +4890,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 142000,
     "Publications": 1316,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 4.8,
     "ChannelAgeText": "4 yil 9 oy",
     "RegistrationDate": "2020-06-01"
@@ -4614,7 +4902,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 87000,
     "Publications": 1079,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-06-01"
@@ -4626,7 +4914,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 69000,
     "Publications": 1046,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.1,
     "ChannelAgeText": "8 yil 1 oy",
     "RegistrationDate": "2017-03-01"
@@ -4638,7 +4926,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 50000,
     "Publications": 707,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
     "RegistrationDate": "2017-10-01"
@@ -4650,7 +4938,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 50000,
     "Publications": 1778,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-02-01"
@@ -4662,7 +4950,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 47000,
     "Publications": 1509,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-05-01"
@@ -4674,7 +4962,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 43000,
     "Publications": 1074,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.2,
     "ChannelAgeText": "8 yil 1 oy",
     "RegistrationDate": "2017-02-01"
@@ -4686,7 +4974,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 43000,
     "Publications": 1228,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2018-11-01"
@@ -4698,7 +4986,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 38000,
     "Publications": 37,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 0.7,
     "ChannelAgeText": "8 oy",
     "RegistrationDate": "2024-07-01"
@@ -4710,7 +4998,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 35000,
     "Publications": 152,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 2.3,
     "ChannelAgeText": "2 yil 3 oy",
     "RegistrationDate": "2022-12-01"
@@ -4722,7 +5010,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 34000,
     "Publications": 601,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-01-01"
@@ -4734,7 +5022,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 32000,
     "Publications": 1390,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 9 oy",
     "RegistrationDate": "2016-07-01"
@@ -4746,7 +5034,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 29000,
     "Publications": 1231,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2018-08-01"
@@ -4758,7 +5046,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 25000,
     "Publications": 1472,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-05-01"
@@ -4770,7 +5058,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1004,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2018-12-01"
@@ -4782,7 +5070,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 20000,
     "Publications": 932,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2019-12-01"
@@ -4794,7 +5082,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 19000,
     "Publications": 1575,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-05-01"
@@ -4806,7 +5094,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1147,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.1,
     "ChannelAgeText": "11 yil 1 oy",
     "RegistrationDate": "2014-03-01"
@@ -4818,7 +5106,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 13000,
     "Publications": 997,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.4,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2019-11-01"
@@ -4830,7 +5118,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2120,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 3 oy",
     "RegistrationDate": "2016-01-01"
@@ -4842,7 +5130,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 12000,
     "Publications": 770,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.5,
     "ChannelAgeText": "5 yil 6 oy",
     "RegistrationDate": "2019-10-01"
@@ -4854,7 +5142,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 11000,
     "Publications": 767,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 3 oy",
     "RegistrationDate": "2016-01-01"
@@ -4866,7 +5154,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8806,
     "Publications": 372,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-02-01"
@@ -4878,7 +5166,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 7570,
     "Publications": 707,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-03-01"
@@ -4890,7 +5178,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6133,
     "Publications": 147,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.7,
     "ChannelAgeText": "2 yil 7 oy",
     "RegistrationDate": "2022-08-01"
@@ -4902,7 +5190,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6088,
     "Publications": 380,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-04-01"
@@ -4914,7 +5202,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6081,
     "Publications": 917,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-05-01"
@@ -4926,7 +5214,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 5815,
     "Publications": 28,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.1,
     "ChannelAgeText": "3 yil 1 oy",
     "RegistrationDate": "2022-03-01"
@@ -4938,7 +5226,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4224,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.3,
     "ChannelAgeText": "4 yil 3 oy",
     "RegistrationDate": "2020-12-01"
@@ -4950,7 +5238,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 3815,
     "Publications": 87,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.3,
     "ChannelAgeText": "2 yil 3 oy",
     "RegistrationDate": "2022-12-01"
@@ -4962,7 +5250,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 769,
     "Publications": 75,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.9,
     "ChannelAgeText": "3 yil 11 oy",
     "RegistrationDate": "2021-05-01"
@@ -4974,7 +5262,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 155000,
     "Publications": 1330,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 4.9,
     "ChannelAgeText": "4 yil 10 oy",
     "RegistrationDate": "2020-06-01"
@@ -4986,7 +5274,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 955,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
     "RegistrationDate": "2020-02-01"
@@ -4998,7 +5286,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 91000,
     "Publications": 1098,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-06-01"
@@ -5010,7 +5298,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 69000,
     "Publications": 1052,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.2,
     "ChannelAgeText": "8 yil 2 oy",
     "RegistrationDate": "2017-03-01"
@@ -5022,7 +5310,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 53000,
     "Publications": 1802,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-02-01"
@@ -5034,7 +5322,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 50000,
     "Publications": 717,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2017-10-01"
@@ -5046,7 +5334,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 48000,
     "Publications": 1528,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-05-01"
@@ -5058,7 +5346,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 46000,
     "Publications": 45,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 0.8,
     "ChannelAgeText": "9 oy",
     "RegistrationDate": "2024-07-01"
@@ -5070,7 +5358,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 46000,
     "Publications": 1228,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2018-11-01"
@@ -5082,7 +5370,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 43000,
     "Publications": 1086,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.2,
     "ChannelAgeText": "8 yil 2 oy",
     "RegistrationDate": "2017-02-01"
@@ -5094,7 +5382,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 38000,
     "Publications": 171,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 2.4,
     "ChannelAgeText": "2 yil 4 oy",
     "RegistrationDate": "2022-12-01"
@@ -5106,7 +5394,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 35000,
     "Publications": 607,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-01-01"
@@ -5118,7 +5406,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 33000,
     "Publications": 1413,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 10 oy",
     "RegistrationDate": "2016-07-01"
@@ -5130,7 +5418,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 31000,
     "Publications": 1258,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-08-01"
@@ -5142,7 +5430,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 26000,
     "Publications": 1488,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-05-01"
@@ -5154,7 +5442,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1014,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2018-12-01"
@@ -5166,7 +5454,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 20000,
     "Publications": 938,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.4,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2019-12-01"
@@ -5178,7 +5466,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 19000,
     "Publications": 1598,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-05-01"
@@ -5190,7 +5478,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1152,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.2,
     "ChannelAgeText": "11 yil 2 oy",
     "RegistrationDate": "2014-03-01"
@@ -5202,7 +5490,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 15000,
     "Publications": 1013,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.5,
     "ChannelAgeText": "5 yil 5 oy",
     "RegistrationDate": "2019-11-01"
@@ -5214,7 +5502,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 14000,
     "Publications": 775,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 4 oy",
     "RegistrationDate": "2016-01-01"
@@ -5226,7 +5514,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2172,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 4 oy",
     "RegistrationDate": "2016-01-01"
@@ -5238,7 +5526,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 12000,
     "Publications": 780,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.6,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2019-10-01"
@@ -5250,7 +5538,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8793,
     "Publications": 374,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-02-01"
@@ -5262,7 +5550,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 7720,
     "Publications": 722,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-03-01"
@@ -5274,7 +5562,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6244,
     "Publications": 902,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-05-01"
@@ -5286,7 +5574,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6118,
     "Publications": 150,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.7,
     "ChannelAgeText": "2 yil 8 oy",
     "RegistrationDate": "2022-08-01"
@@ -5298,7 +5586,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6087,
     "Publications": 391,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-04-01"
@@ -5310,7 +5598,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 6027,
     "Publications": 29,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
     "RegistrationDate": "2022-03-01"
@@ -5322,7 +5610,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 5112,
     "Publications": 93,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.4,
     "ChannelAgeText": "2 yil 4 oy",
     "RegistrationDate": "2022-12-01"
@@ -5334,7 +5622,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4214,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.4,
     "ChannelAgeText": "4 yil 4 oy",
     "RegistrationDate": "2020-12-01"
@@ -5346,7 +5634,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 775,
     "Publications": 78,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.0,
     "ChannelAgeText": "4 yil ",
     "RegistrationDate": "2021-05-01"
@@ -5358,7 +5646,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 172000,
     "Publications": 1343,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 5.0,
     "ChannelAgeText": "5 yil ",
     "RegistrationDate": "2020-06-01"
@@ -5370,7 +5658,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 146000,
     "Publications": 1014,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 3 oy",
     "RegistrationDate": "2020-02-01"
@@ -5382,7 +5670,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 98000,
     "Publications": 1118,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-06-01"
@@ -5394,7 +5682,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 70000,
     "Publications": 1060,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.3,
     "ChannelAgeText": "8 yil 3 oy",
     "RegistrationDate": "2017-03-01"
@@ -5406,7 +5694,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 57000,
     "Publications": 52,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 0.9,
     "ChannelAgeText": "10 oy",
     "RegistrationDate": "2024-07-01"
@@ -5418,7 +5706,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 56000,
     "Publications": 1827,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-02-01"
@@ -5430,7 +5718,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 51000,
     "Publications": 732,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 8 oy",
     "RegistrationDate": "2017-10-01"
@@ -5442,7 +5730,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 50000,
     "Publications": 1232,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2018-11-01"
@@ -5454,7 +5742,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 49000,
     "Publications": 1548,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-05-01"
@@ -5466,7 +5754,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 44000,
     "Publications": 184,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 2.5,
     "ChannelAgeText": "2 yil 5 oy",
     "RegistrationDate": "2022-12-01"
@@ -5478,7 +5766,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1098,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.3,
     "ChannelAgeText": "8 yil 3 oy",
     "RegistrationDate": "2017-02-01"
@@ -5490,7 +5778,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 35000,
     "Publications": 613,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2019-01-01"
@@ -5502,7 +5790,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 34000,
     "Publications": 1450,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 8.9,
     "ChannelAgeText": "8 yil 11 oy",
     "RegistrationDate": "2016-07-01"
@@ -5514,7 +5802,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 32000,
     "Publications": 1280,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-08-01"
@@ -5526,7 +5814,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 26000,
     "Publications": 1503,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-05-01"
@@ -5538,7 +5826,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 948,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.5,
     "ChannelAgeText": "5 yil 6 oy",
     "RegistrationDate": "2019-12-01"
@@ -5550,7 +5838,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1031,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2018-12-01"
@@ -5562,7 +5850,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1631,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-05-01"
@@ -5574,7 +5862,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1158,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.3,
     "ChannelAgeText": "11 yil 3 oy",
     "RegistrationDate": "2014-03-01"
@@ -5586,7 +5874,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 17000,
     "Publications": 1028,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.6,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2019-11-01"
@@ -5598,7 +5886,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 15000,
     "Publications": 790,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 9.4,
     "ChannelAgeText": "9 yil 5 oy",
     "RegistrationDate": "2016-01-01"
@@ -5610,7 +5898,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2246,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 9.4,
     "ChannelAgeText": "9 yil 5 oy",
     "RegistrationDate": "2016-01-01"
@@ -5622,7 +5910,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 12000,
     "Publications": 792,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 8 oy",
     "RegistrationDate": "2019-10-01"
@@ -5634,7 +5922,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8778,
     "Publications": 379,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-02-01"
@@ -5646,7 +5934,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 8659,
     "Publications": 739,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-03-01"
@@ -5658,7 +5946,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 7426,
     "Publications": 100,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.5,
     "ChannelAgeText": "2 yil 5 oy",
     "RegistrationDate": "2022-12-01"
@@ -5670,7 +5958,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6303,
     "Publications": 921,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-05-01"
@@ -5682,7 +5970,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 6257,
     "Publications": 35,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.3,
     "ChannelAgeText": "3 yil 3 oy",
     "RegistrationDate": "2022-03-01"
@@ -5694,7 +5982,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 6153,
     "Publications": 157,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.8,
     "ChannelAgeText": "2 yil 9 oy",
     "RegistrationDate": "2022-08-01"
@@ -5706,7 +5994,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6077,
     "Publications": 400,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-04-01"
@@ -5718,7 +6006,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4207,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.5,
     "ChannelAgeText": "4 yil 5 oy",
     "RegistrationDate": "2020-12-01"
@@ -5730,7 +6018,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1097,
     "Publications": 81,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.1,
     "ChannelAgeText": "4 yil 1 oy",
     "RegistrationDate": "2021-05-01"
@@ -5742,7 +6030,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 178000,
     "Publications": 1357,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 5.1,
     "ChannelAgeText": "5 yil ",
     "RegistrationDate": "2020-06-01"
@@ -5754,7 +6042,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 146000,
     "Publications": 1060,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 5.4,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2020-02-01"
@@ -5766,7 +6054,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 102000,
     "Publications": 1143,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-06-01"
@@ -5778,7 +6066,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 71000,
     "Publications": 1069,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.3,
     "ChannelAgeText": "8 yil 4 oy",
     "RegistrationDate": "2017-03-01"
@@ -5790,7 +6078,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 64000,
     "Publications": 60,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 1.0,
     "ChannelAgeText": "11 oy",
     "RegistrationDate": "2024-07-01"
@@ -5802,7 +6090,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 58000,
     "Publications": 1854,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-02-01"
@@ -5814,7 +6102,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 53000,
     "Publications": 1237,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2018-11-01"
@@ -5826,7 +6114,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 52000,
     "Publications": 737,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
     "RegistrationDate": "2017-10-01"
@@ -5838,7 +6126,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 49000,
     "Publications": 1566,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-05-01"
@@ -5850,7 +6138,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 47000,
     "Publications": 192,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 2.6,
     "ChannelAgeText": "2 yil 6 oy",
     "RegistrationDate": "2022-12-01"
@@ -5862,7 +6150,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1110,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.4,
     "ChannelAgeText": "8 yil 4 oy",
     "RegistrationDate": "2017-02-01"
@@ -5874,7 +6162,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 36000,
     "Publications": 619,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2019-01-01"
@@ -5886,7 +6174,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 35000,
     "Publications": 1479,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 9.0,
     "ChannelAgeText": "9 yil ",
     "RegistrationDate": "2016-07-01"
@@ -5898,7 +6186,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 33000,
     "Publications": 1309,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-08-01"
@@ -5910,7 +6198,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 26000,
     "Publications": 1520,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-05-01"
@@ -5922,7 +6210,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 958,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.6,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2019-12-01"
@@ -5934,7 +6222,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1040,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2018-12-01"
@@ -5946,7 +6234,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1667,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-05-01"
@@ -5958,7 +6246,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1164,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.3,
     "ChannelAgeText": "11 yil 4 oy",
     "RegistrationDate": "2014-03-01"
@@ -5970,7 +6258,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 18000,
     "Publications": 1043,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2019-11-01"
@@ -5982,7 +6270,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 17000,
     "Publications": 809,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.5,
     "ChannelAgeText": "9 yil 6 oy",
     "RegistrationDate": "2016-01-01"
@@ -5994,7 +6282,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2276,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 9.5,
     "ChannelAgeText": "9 yil 6 oy",
     "RegistrationDate": "2016-01-01"
@@ -6006,7 +6294,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 13000,
     "Publications": 812,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2019-10-01"
@@ -6018,7 +6306,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 11000,
     "Publications": 109,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.6,
     "ChannelAgeText": "2 yil 6 oy",
     "RegistrationDate": "2022-12-01"
@@ -6030,7 +6318,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 10000,
     "Publications": 757,
-    "AvgPubPerMonth": 10.0,
+    "AvgPubPerMonth": 10,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2019-03-01"
@@ -6042,7 +6330,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8786,
     "Publications": 376,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-02-01"
@@ -6054,7 +6342,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7179,
     "Publications": 168,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 2.9,
     "ChannelAgeText": "2 yil 10 oy",
     "RegistrationDate": "2022-08-01"
@@ -6066,7 +6354,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 6676,
     "Publications": 42,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.3,
     "ChannelAgeText": "3 yil 4 oy",
     "RegistrationDate": "2022-03-01"
@@ -6078,7 +6366,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6373,
     "Publications": 938,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-05-01"
@@ -6090,7 +6378,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6104,
     "Publications": 407,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-04-01"
@@ -6102,7 +6390,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4197,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.6,
     "ChannelAgeText": "4 yil 6 oy",
     "RegistrationDate": "2020-12-01"
@@ -6114,7 +6402,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1335,
     "Publications": 83,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.2,
     "ChannelAgeText": "4 yil 2 oy",
     "RegistrationDate": "2021-05-01"
@@ -6126,7 +6414,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 180000,
     "Publications": 1385,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
     "RegistrationDate": "2020-06-01"
@@ -6138,7 +6426,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 144000,
     "Publications": 1103,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 5.5,
     "ChannelAgeText": "5 yil 5 oy",
     "RegistrationDate": "2020-02-01"
@@ -6150,7 +6438,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 104000,
     "Publications": 1170,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-06-01"
@@ -6162,7 +6450,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 71000,
     "Publications": 1084,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.4,
     "ChannelAgeText": "8 yil 5 oy",
     "RegistrationDate": "2017-03-01"
@@ -6174,7 +6462,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 64000,
     "Publications": 67,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 1.1,
     "ChannelAgeText": "1 yil ",
     "RegistrationDate": "2024-07-01"
@@ -6186,7 +6474,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 60000,
     "Publications": 1886,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-02-01"
@@ -6198,7 +6486,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 53200,
     "Publications": 1242,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-11-01"
@@ -6210,7 +6498,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 52000,
     "Publications": 746,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 10 oy",
     "RegistrationDate": "2017-10-01"
@@ -6222,7 +6510,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 51000,
     "Publications": 200,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 2.7,
     "ChannelAgeText": "2 yil 7 oy",
     "RegistrationDate": "2022-12-01"
@@ -6234,7 +6522,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 49000,
     "Publications": 1594,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-05-01"
@@ -6246,7 +6534,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1128,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.5,
     "ChannelAgeText": "8 yil 5 oy",
     "RegistrationDate": "2017-02-01"
@@ -6258,7 +6546,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 36000,
     "Publications": 622,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2019-01-01"
@@ -6270,7 +6558,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 36000,
     "Publications": 1500,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 9.1,
     "ChannelAgeText": "9 yil 1 oy",
     "RegistrationDate": "2016-07-01"
@@ -6282,7 +6570,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 34000,
     "Publications": 1337,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-08-01"
@@ -6294,7 +6582,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 27000,
     "Publications": 1529,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-05-01"
@@ -6306,7 +6594,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 967,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 8 oy",
     "RegistrationDate": "2019-12-01"
@@ -6318,7 +6606,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1058,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2018-12-01"
@@ -6330,7 +6618,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1696,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-05-01"
@@ -6342,7 +6630,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 19000,
     "Publications": 1057,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2019-11-01"
@@ -6354,7 +6642,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1170,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.4,
     "ChannelAgeText": "11 yil 5 oy",
     "RegistrationDate": "2014-03-01"
@@ -6366,7 +6654,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 18000,
     "Publications": 826,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.6,
     "ChannelAgeText": "9 yil 7 oy",
     "RegistrationDate": "2016-01-01"
@@ -6378,7 +6666,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13200,
     "Publications": 2333,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 9.6,
     "ChannelAgeText": "9 yil 7 oy",
     "RegistrationDate": "2016-01-01"
@@ -6390,7 +6678,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 13000,
     "Publications": 115,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.7,
     "ChannelAgeText": "2 yil 7 oy",
     "RegistrationDate": "2022-12-01"
@@ -6402,7 +6690,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 13000,
     "Publications": 771,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2019-03-01"
@@ -6414,7 +6702,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 13000,
     "Publications": 826,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 10 oy",
     "RegistrationDate": "2019-10-01"
@@ -6426,7 +6714,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8778,
     "Publications": 378,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-02-01"
@@ -6438,7 +6726,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7494,
     "Publications": 172,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 3.0,
     "ChannelAgeText": "3 yil ",
     "RegistrationDate": "2022-08-01"
@@ -6450,7 +6738,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 7053,
     "Publications": 20,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.4,
     "ChannelAgeText": "3 yil 5 oy",
     "RegistrationDate": "2022-03-01"
@@ -6462,7 +6750,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6463,
     "Publications": 955,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-05-01"
@@ -6474,7 +6762,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6144,
     "Publications": 411,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2019-04-01"
@@ -6486,7 +6774,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4182,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.7,
     "ChannelAgeText": "4 yil 7 oy",
     "RegistrationDate": "2020-12-01"
@@ -6498,7 +6786,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1492,
     "Publications": 86,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.3,
     "ChannelAgeText": "4 yil 3 oy",
     "RegistrationDate": "2021-05-01"
@@ -6510,7 +6798,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 180000,
     "Publications": 1395,
-    "AvgPubPerMonth": 23.0,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 3 oy",
     "RegistrationDate": "2020-06-01"
@@ -6522,7 +6810,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 1147,
-    "AvgPubPerMonth": 18.0,
+    "AvgPubPerMonth": 18,
     "ChannelAge": 5.6,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2020-02-01"
@@ -6534,7 +6822,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 111000,
     "Publications": 1191,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-06-01"
@@ -6546,7 +6834,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 72000,
     "Publications": 1093,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.5,
     "ChannelAgeText": "8 yil 6 oy",
     "RegistrationDate": "2017-03-01"
@@ -6558,7 +6846,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 64000,
     "Publications": 71,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 1.2,
     "ChannelAgeText": "1 yil 2 oy",
     "RegistrationDate": "2024-07-01"
@@ -6570,7 +6858,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 61000,
     "Publications": 1934,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-02-01"
@@ -6582,7 +6870,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 53000,
     "Publications": 220,
-    "AvgPubPerMonth": 7.0,
+    "AvgPubPerMonth": 7,
     "ChannelAge": 2.8,
     "ChannelAgeText": "2 yil 9 oy",
     "RegistrationDate": "2022-12-01"
@@ -6594,7 +6882,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 53000,
     "Publications": 755,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 7.9,
     "ChannelAgeText": "7 yil 11 oy",
     "RegistrationDate": "2017-10-01"
@@ -6606,7 +6894,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 53000,
     "Publications": 1247,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-11-01"
@@ -6618,7 +6906,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 50000,
     "Publications": 1616,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-05-01"
@@ -6630,7 +6918,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 46000,
     "Publications": 628,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2019-01-01"
@@ -6642,7 +6930,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1137,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.6,
     "ChannelAgeText": "8 yil 7 oy",
     "RegistrationDate": "2017-02-01"
@@ -6654,7 +6942,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 37000,
     "Publications": 1532,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 9.2,
     "ChannelAgeText": "9 yil 2 oy",
     "RegistrationDate": "2016-07-01"
@@ -6666,7 +6954,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 35000,
     "Publications": 1357,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-08-01"
@@ -6678,7 +6966,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 27000,
     "Publications": 1548,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
     "RegistrationDate": "2019-05-01"
@@ -6690,7 +6978,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 987,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2019-12-01"
@@ -6702,7 +6990,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1074,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2018-12-01"
@@ -6714,7 +7002,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1749,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-05-01"
@@ -6726,7 +7014,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 19000,
     "Publications": 1071,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 10 oy",
     "RegistrationDate": "2019-11-01"
@@ -6738,7 +7026,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 19000,
     "Publications": 843,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.7,
     "ChannelAgeText": "9 yil 8 oy",
     "RegistrationDate": "2016-01-01"
@@ -6750,7 +7038,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1190,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.5,
     "ChannelAgeText": "11 yil 6 oy",
     "RegistrationDate": "2014-03-01"
@@ -6762,7 +7050,7 @@
     "ChannelLink": ".../smartbank.uz",
     "Subscribers": 14000,
     "Publications": 120,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.8,
     "ChannelAgeText": "2 yil 9 oy",
     "RegistrationDate": "2022-12-01"
@@ -6774,7 +7062,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 13000,
     "Publications": 783,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2019-03-01"
@@ -6786,7 +7074,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2375,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 9.7,
     "ChannelAgeText": "9 yil 8 oy",
     "RegistrationDate": "2016-01-01"
@@ -6798,7 +7086,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 13000,
     "Publications": 837,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-10-01"
@@ -6810,7 +7098,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8766,
     "Publications": 384,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-02-01"
@@ -6822,7 +7110,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7893,
     "Publications": 188,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.1,
     "ChannelAgeText": "3 yil 1 oy",
     "RegistrationDate": "2022-08-01"
@@ -6834,7 +7122,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 7279,
     "Publications": 32,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.5,
     "ChannelAgeText": "3 yil 6 oy",
     "RegistrationDate": "2022-03-01"
@@ -6846,7 +7134,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6582,
     "Publications": 975,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-05-01"
@@ -6858,7 +7146,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6152,
     "Publications": 412,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2019-04-01"
@@ -6870,7 +7158,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4172,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.8,
     "ChannelAgeText": "4 yil 9 oy",
     "RegistrationDate": "2020-12-01"
@@ -6882,7 +7170,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1471,
     "Publications": 86,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.3,
     "ChannelAgeText": "4 yil 4 oy",
     "RegistrationDate": "2021-05-01"
@@ -6894,7 +7182,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 180000,
     "Publications": 1402,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.3,
     "ChannelAgeText": "5 yil 4 oy",
     "RegistrationDate": "2020-06-01"
@@ -6906,7 +7194,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 142000,
     "Publications": 1207,
-    "AvgPubPerMonth": 18.0,
+    "AvgPubPerMonth": 18,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2020-02-01"
@@ -6918,7 +7206,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 112000,
     "Publications": 1211,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-06-01"
@@ -6930,7 +7218,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 72000,
     "Publications": 1103,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.6,
     "ChannelAgeText": "8 yil 7 oy",
     "RegistrationDate": "2017-03-01"
@@ -6942,7 +7230,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 64000,
     "Publications": 77,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 1.2,
     "ChannelAgeText": "1 yil 2 oy",
     "RegistrationDate": "2024-07-01"
@@ -6954,7 +7242,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 62000,
     "Publications": 1983,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-02-01"
@@ -6966,7 +7254,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 58000,
     "Publications": 642,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2019-01-01"
@@ -6978,7 +7266,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 54000,
     "Publications": 243,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 2.8,
     "ChannelAgeText": "2 yil 9 oy",
     "RegistrationDate": "2022-12-01"
@@ -6990,7 +7278,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 54000,
     "Publications": 767,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 8.0,
     "ChannelAgeText": "8 yil ",
     "RegistrationDate": "2017-10-01"
@@ -7002,7 +7290,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 53000,
     "Publications": 1253,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-11-01"
@@ -7014,7 +7302,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 51000,
     "Publications": 1637,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-05-01"
@@ -7026,7 +7314,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1152,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.7,
     "ChannelAgeText": "8 yil 7 oy",
     "RegistrationDate": "2017-02-01"
@@ -7038,7 +7326,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 38000,
     "Publications": 1562,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 3 oy",
     "RegistrationDate": "2016-07-01"
@@ -7050,7 +7338,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 35000,
     "Publications": 1375,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-08-01"
@@ -7062,7 +7350,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 28000,
     "Publications": 1569,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 5 oy",
     "RegistrationDate": "2019-05-01"
@@ -7074,7 +7362,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 998,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 10 oy",
     "RegistrationDate": "2019-12-01"
@@ -7086,7 +7374,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1086,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2018-12-01"
@@ -7098,7 +7386,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 20000,
     "Publications": 867,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.8,
     "ChannelAgeText": "9 yil 9 oy",
     "RegistrationDate": "2016-01-01"
@@ -7110,7 +7398,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1786,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-05-01"
@@ -7122,7 +7410,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 19000,
     "Publications": 1088,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-11-01"
@@ -7134,7 +7422,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1205,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.6,
     "ChannelAgeText": "11 yil 7 oy",
     "RegistrationDate": "2014-03-01"
@@ -7146,7 +7434,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 14000,
     "Publications": 797,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2019-03-01"
@@ -7158,7 +7446,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 14000,
     "Publications": 855,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-10-01"
@@ -7170,7 +7458,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2421,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 9.8,
     "ChannelAgeText": "9 yil 9 oy",
     "RegistrationDate": "2016-01-01"
@@ -7182,7 +7470,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8758,
     "Publications": 386,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-02-01"
@@ -7194,7 +7482,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7989,
     "Publications": 198,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
     "RegistrationDate": "2022-08-01"
@@ -7206,7 +7494,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 7598,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.6,
     "ChannelAgeText": "3 yil 7 oy",
     "RegistrationDate": "2022-03-01"
@@ -7218,7 +7506,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6612,
     "Publications": 991,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-05-01"
@@ -7230,7 +7518,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6142,
     "Publications": 414,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2019-04-01"
@@ -7242,7 +7530,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4171,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.8,
     "ChannelAgeText": "4 yil 9 oy",
     "RegistrationDate": "2020-12-01"
@@ -7254,7 +7542,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1456,
     "Publications": 88,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.4,
     "ChannelAgeText": "4 yil 5 oy",
     "RegistrationDate": "2021-05-01"
@@ -7266,7 +7554,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 183000,
     "Publications": 1414,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.4,
     "ChannelAgeText": "5 yil 5 oy",
     "RegistrationDate": "2020-06-01"
@@ -7278,7 +7566,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 1256,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2020-02-01"
@@ -7290,7 +7578,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 116000,
     "Publications": 1238,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-06-01"
@@ -7302,7 +7590,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 73000,
     "Publications": 1112,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.7,
     "ChannelAgeText": "8 yil 8 oy",
     "RegistrationDate": "2017-03-01"
@@ -7314,7 +7602,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 66000,
     "Publications": 50,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 1.3,
     "ChannelAgeText": "1 yil 4 oy",
     "RegistrationDate": "2024-07-01"
@@ -7326,7 +7614,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 66000,
     "Publications": 656,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2019-01-01"
@@ -7338,7 +7626,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 63000,
     "Publications": 1986,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
     "RegistrationDate": "2018-02-01"
@@ -7350,7 +7638,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 55000,
     "Publications": 260,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 2.9,
     "ChannelAgeText": "2 yil 11 oy",
     "RegistrationDate": "2022-12-01"
@@ -7362,7 +7650,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 55000,
     "Publications": 775,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 8.1,
     "ChannelAgeText": "8 yil 1 oy",
     "RegistrationDate": "2017-10-01"
@@ -7374,7 +7662,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 54000,
     "Publications": 1260,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-11-01"
@@ -7386,7 +7674,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 53000,
     "Publications": 1672,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
     "RegistrationDate": "2018-05-01"
@@ -7398,7 +7686,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1167,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 9 oy",
     "RegistrationDate": "2017-02-01"
@@ -7410,7 +7698,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 39000,
     "Publications": 1602,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 9.3,
     "ChannelAgeText": "9 yil 4 oy",
     "RegistrationDate": "2016-07-01"
@@ -7422,7 +7710,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 36000,
     "Publications": 1397,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
     "RegistrationDate": "2018-08-01"
@@ -7434,7 +7722,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 28300,
     "Publications": 1583,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.5,
     "ChannelAgeText": "6 yil 6 oy",
     "RegistrationDate": "2019-05-01"
@@ -7446,7 +7734,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 21000,
     "Publications": 888,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.8,
     "ChannelAgeText": "9 yil 10 oy",
     "RegistrationDate": "2016-01-01"
@@ -7458,7 +7746,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 1006,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2019-12-01"
@@ -7470,7 +7758,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 20000,
     "Publications": 1105,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-11-01"
@@ -7482,7 +7770,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1107,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2018-12-01"
@@ -7494,7 +7782,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1833,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
     "RegistrationDate": "2018-05-01"
@@ -7506,7 +7794,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1229,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.7,
     "ChannelAgeText": "11 yil 8 oy",
     "RegistrationDate": "2014-03-01"
@@ -7518,7 +7806,7 @@
     "ChannelLink": ".../openbank.uz",
     "Subscribers": 15000,
     "Publications": 137,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 2.9,
     "ChannelAgeText": "2 yil 11 oy",
     "RegistrationDate": "2022-12-01"
@@ -7530,7 +7818,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 15000,
     "Publications": 819,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2019-03-01"
@@ -7542,7 +7830,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 15000,
     "Publications": 878,
-    "AvgPubPerMonth": 13.0,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-10-01"
@@ -7554,7 +7842,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2471,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 9.8,
     "ChannelAgeText": "9 yil 10 oy",
     "RegistrationDate": "2016-01-01"
@@ -7566,7 +7854,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8818,
     "Publications": 390,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
     "RegistrationDate": "2018-02-01"
@@ -7578,7 +7866,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 8261,
     "Publications": 42,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 3.7,
     "ChannelAgeText": "3 yil 8 oy",
     "RegistrationDate": "2022-03-01"
@@ -7590,7 +7878,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7986,
     "Publications": 204,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.3,
     "ChannelAgeText": "3 yil 3 oy",
     "RegistrationDate": "2022-08-01"
@@ -7602,7 +7890,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 6687,
     "Publications": 1006,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
     "RegistrationDate": "2018-05-01"
@@ -7614,7 +7902,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6157,
     "Publications": 416,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2019-04-01"
@@ -7626,7 +7914,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4161,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 4.9,
     "ChannelAgeText": "4 yil 11 oy",
     "RegistrationDate": "2020-12-01"
@@ -7638,7 +7926,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1448,
     "Publications": 90,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.5,
     "ChannelAgeText": "4 yil 6 oy",
     "RegistrationDate": "2021-05-01"
@@ -7650,7 +7938,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 186000,
     "Publications": 1418,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.5,
     "ChannelAgeText": "5 yil 6 oy",
     "RegistrationDate": "2020-06-01"
@@ -7662,7 +7950,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 1311,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 5.8,
     "ChannelAgeText": "5 yil 9 oy",
     "RegistrationDate": "2020-02-01"
@@ -7674,7 +7962,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 119000,
     "Publications": 1258,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
     "RegistrationDate": "2018-06-01"
@@ -7686,7 +7974,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 74000,
     "Publications": 1130,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 9 oy",
     "RegistrationDate": "2017-03-01"
@@ -7698,7 +7986,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 71000,
     "Publications": 677,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
     "RegistrationDate": "2019-01-01"
@@ -7710,7 +7998,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 70000,
     "Publications": 53,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 1.4,
     "ChannelAgeText": "1 yil 4 oy",
     "RegistrationDate": "2024-07-01"
@@ -7722,7 +8010,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 64000,
     "Publications": 2012,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
     "RegistrationDate": "2018-02-01"
@@ -7734,7 +8022,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 57000,
     "Publications": 277,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 3.0,
     "ChannelAgeText": "3 yil ",
     "RegistrationDate": "2022-12-01"
@@ -7746,7 +8034,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 57000,
     "Publications": 786,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 8.2,
     "ChannelAgeText": "8 yil 2 oy",
     "RegistrationDate": "2017-10-01"
@@ -7758,7 +8046,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 55000,
     "Publications": 1268,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-11-01"
@@ -7770,7 +8058,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 54000,
     "Publications": 1708,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-05-01"
@@ -7782,7 +8070,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44000,
     "Publications": 1179,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 9 oy",
     "RegistrationDate": "2017-02-01"
@@ -7794,7 +8082,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 43000,
     "Publications": 1422,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 4 oy",
     "RegistrationDate": "2018-08-01"
@@ -7806,7 +8094,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 39000,
     "Publications": 1625,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 9.4,
     "ChannelAgeText": "9 yil 5 oy",
     "RegistrationDate": "2016-07-01"
@@ -7818,7 +8106,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 29000,
     "Publications": 1601,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.6,
     "ChannelAgeText": "6 yil 7 oy",
     "RegistrationDate": "2019-05-01"
@@ -7830,7 +8118,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 22000,
     "Publications": 912,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 9.9,
     "ChannelAgeText": "9 yil 11 oy",
     "RegistrationDate": "2016-01-01"
@@ -7842,7 +8130,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 1024,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
     "RegistrationDate": "2019-12-01"
@@ -7854,7 +8142,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 20000,
     "Publications": 1126,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-11-01"
@@ -7866,7 +8154,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1137,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2018-12-01"
@@ -7878,7 +8166,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20000,
     "Publications": 1850,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-05-01"
@@ -7890,7 +8178,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1247,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.8,
     "ChannelAgeText": "11 yil 9 oy",
     "RegistrationDate": "2014-03-01"
@@ -7902,7 +8190,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 15000,
     "Publications": 840,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2019-03-01"
@@ -7914,7 +8202,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 15000,
     "Publications": 891,
-    "AvgPubPerMonth": 13.0,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-10-01"
@@ -7926,7 +8214,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2545,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 9.9,
     "ChannelAgeText": "9 yil 11 oy",
     "RegistrationDate": "2016-01-01"
@@ -7938,7 +8226,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 9006,
     "Publications": 47,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.8,
     "ChannelAgeText": "3 yil 9 oy",
     "RegistrationDate": "2022-03-01"
@@ -7950,7 +8238,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8828,
     "Publications": 394,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
     "RegistrationDate": "2018-02-01"
@@ -7962,7 +8250,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 7998,
     "Publications": 1021,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-05-01"
@@ -7974,7 +8262,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7995,
     "Publications": 206,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.3,
     "ChannelAgeText": "3 yil 4 oy",
     "RegistrationDate": "2022-08-01"
@@ -7986,7 +8274,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6212,
     "Publications": 427,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2019-04-01"
@@ -7998,7 +8286,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4150,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 5.0,
     "ChannelAgeText": "5 yil ",
     "RegistrationDate": "2020-12-01"
@@ -8010,7 +8298,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1432,
     "Publications": 91,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.6,
     "ChannelAgeText": "4 yil 7 oy",
     "RegistrationDate": "2021-05-01"
@@ -8022,7 +8310,7 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 191000,
     "Publications": 1432,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.6,
     "ChannelAgeText": "5 yil 7 oy",
     "RegistrationDate": "2020-06-01"
@@ -8034,7 +8322,7 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 1361,
-    "AvgPubPerMonth": 20.0,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 5.9,
     "ChannelAgeText": "5 yil 11 oy",
     "RegistrationDate": "2020-02-01"
@@ -8046,7 +8334,7 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 122000,
     "Publications": 1287,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
     "RegistrationDate": "2018-06-01"
@@ -8058,7 +8346,7 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 96800,
     "Publications": 1443,
-    "AvgPubPerMonth": 17.0,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 7.4,
     "ChannelAgeText": "7 yil 5 oy",
     "RegistrationDate": "2018-08-01"
@@ -8070,7 +8358,7 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 85100,
     "Publications": 690,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
     "RegistrationDate": "2019-01-01"
@@ -8082,7 +8370,7 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 76800,
     "Publications": 57,
-    "AvgPubPerMonth": 4.0,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 1.5,
     "ChannelAgeText": "1 yil 6 oy",
     "RegistrationDate": "2024-07-01"
@@ -8094,7 +8382,7 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 76800,
     "Publications": 1157,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.8,
     "ChannelAgeText": "8 yil 10 oy",
     "RegistrationDate": "2017-03-01"
@@ -8106,7 +8394,7 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 67900,
     "Publications": 2060,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 7.9,
     "ChannelAgeText": "7 yil 11 oy",
     "RegistrationDate": "2018-02-01"
@@ -8118,7 +8406,7 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 62500,
     "Publications": 289,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 3.1,
     "ChannelAgeText": "3 yil 1 oy",
     "RegistrationDate": "2022-12-01"
@@ -8130,7 +8418,7 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 60000,
     "Publications": 1284,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
     "RegistrationDate": "2018-11-01"
@@ -8142,7 +8430,7 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 59300,
     "Publications": 798,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 8.3,
     "ChannelAgeText": "8 yil 3 oy",
     "RegistrationDate": "2017-10-01"
@@ -8154,7 +8442,7 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 55800,
     "Publications": 1745,
-    "AvgPubPerMonth": 19.0,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 8 oy",
     "RegistrationDate": "2018-05-01"
@@ -8166,7 +8454,7 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 44600,
     "Publications": 1191,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 8.9,
     "ChannelAgeText": "8 yil 11 oy",
     "RegistrationDate": "2017-02-01"
@@ -8178,7 +8466,7 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 40300,
     "Publications": 1663,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 9.5,
     "ChannelAgeText": "9 yil 6 oy",
     "RegistrationDate": "2016-07-01"
@@ -8190,7 +8478,7 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 35200,
     "Publications": 1611,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 6.7,
     "ChannelAgeText": "6 yil 8 oy",
     "RegistrationDate": "2019-05-01"
@@ -8202,7 +8490,7 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 27100,
     "Publications": 933,
-    "AvgPubPerMonth": 8.0,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 10.0,
     "ChannelAgeText": "10 yil ",
     "RegistrationDate": "2016-01-01"
@@ -8214,7 +8502,7 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 23200,
     "Publications": 1046,
-    "AvgPubPerMonth": 12.0,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 8 oy",
     "RegistrationDate": "2018-05-01"
@@ -8226,7 +8514,7 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21200,
     "Publications": 1040,
-    "AvgPubPerMonth": 15.0,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil 1 oy",
     "RegistrationDate": "2019-12-01"
@@ -8238,7 +8526,7 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 20300,
     "Publications": 1873,
-    "AvgPubPerMonth": 21.0,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 8 oy",
     "RegistrationDate": "2018-05-01"
@@ -8250,7 +8538,7 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20200,
     "Publications": 1158,
-    "AvgPubPerMonth": 14.0,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
     "RegistrationDate": "2018-12-01"
@@ -8262,7 +8550,7 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 20100,
     "Publications": 1147,
-    "AvgPubPerMonth": 16.0,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
     "RegistrationDate": "2019-11-01"
@@ -8274,7 +8562,7 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 18500,
     "Publications": 1255,
-    "AvgPubPerMonth": 9.0,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.8,
     "ChannelAgeText": "11 yil 10 oy",
     "RegistrationDate": "2014-03-01"
@@ -8286,7 +8574,7 @@
     "ChannelLink": ".../openbank.uz",
     "Subscribers": 15600,
     "Publications": 149,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 3.1,
     "ChannelAgeText": "3 yil 1 oy",
     "RegistrationDate": "2022-12-01"
@@ -8298,7 +8586,7 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 15500,
     "Publications": 857,
-    "AvgPubPerMonth": 11.0,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
     "RegistrationDate": "2019-03-01"
@@ -8310,7 +8598,7 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 15300,
     "Publications": 909,
-    "AvgPubPerMonth": 13.0,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
     "RegistrationDate": "2019-10-01"
@@ -8322,7 +8610,7 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13300,
     "Publications": 2581,
-    "AvgPubPerMonth": 22.0,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 10.0,
     "ChannelAgeText": "10 yil ",
     "RegistrationDate": "2016-01-01"
@@ -8334,7 +8622,7 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 11200,
     "Publications": 61,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.8,
     "ChannelAgeText": "3 yil 10 oy",
     "RegistrationDate": "2022-03-01"
@@ -8346,7 +8634,7 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8816,
     "Publications": 403,
-    "AvgPubPerMonth": 5.0,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 7.9,
     "ChannelAgeText": "7 yil 11 oy",
     "RegistrationDate": "2018-02-01"
@@ -8358,7 +8646,7 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 8001,
     "Publications": 218,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.4,
     "ChannelAgeText": "3 yil 5 oy",
     "RegistrationDate": "2022-08-01"
@@ -8370,7 +8658,7 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6204,
     "Publications": 432,
-    "AvgPubPerMonth": 6.0,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
     "RegistrationDate": "2019-04-01"
@@ -8382,7 +8670,7 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4142,
     "Publications": 39,
-    "AvgPubPerMonth": 1.0,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 5.1,
     "ChannelAgeText": "5 yil 1 oy",
     "RegistrationDate": "2020-12-01"
@@ -8394,7 +8682,7 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1427,
     "Publications": 95,
-    "AvgPubPerMonth": 2.0,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.7,
     "ChannelAgeText": "4 yil 8 oy",
     "RegistrationDate": "2021-05-01"
@@ -8406,10 +8694,10 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 198000,
     "Publications": 1437,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 8 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-06-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8418,10 +8706,10 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 143000,
     "Publications": 1389,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 6.0,
     "ChannelAgeText": "6 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8430,10 +8718,10 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 124000,
     "Publications": 1304,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.7,
     "ChannelAgeText": "7 yil 8 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-06-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8442,10 +8730,10 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 86000,
     "Publications": 1460,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 7.5,
     "ChannelAgeText": "7 yil 6 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-08-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8454,10 +8742,10 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 82000,
     "Publications": 65,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 4,
     "ChannelAge": 1.6,
     "ChannelAgeText": "1 yil 7 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2024-07-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8466,10 +8754,10 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 82000,
     "Publications": 696,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 7.1,
     "ChannelAgeText": "7 yil 1 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8478,10 +8766,10 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 78000,
     "Publications": 1171,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 8.9,
     "ChannelAgeText": "8 yil 11 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8490,10 +8778,10 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 70000,
     "Publications": 2089,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 8.0,
     "ChannelAgeText": "8 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8502,10 +8790,10 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 64000,
     "Publications": 300,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8514,10 +8802,10 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 62000,
     "Publications": 805,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 8.3,
     "ChannelAgeText": "8 yil 4 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-10-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8526,10 +8814,10 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 62000,
     "Publications": 1216,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-11-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8538,10 +8826,10 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 58000,
     "Publications": 1761,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8550,10 +8838,10 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 45000,
     "Publications": 1200,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 9.0,
     "ChannelAgeText": "9 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8562,10 +8850,10 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 42000,
     "Publications": 1697,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 9.6,
     "ChannelAgeText": "9 yil 7 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-07-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8574,10 +8862,10 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 37000,
     "Publications": 1622,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8586,10 +8874,10 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 28000,
     "Publications": 952,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 10.1,
     "ChannelAgeText": "10 yil 1 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8598,10 +8886,10 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 25000,
     "Publications": 1051,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8610,10 +8898,10 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 21000,
     "Publications": 1894,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8622,10 +8910,10 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 21000,
     "Publications": 1059,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8634,10 +8922,10 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 20000,
     "Publications": 1161,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-11-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8646,10 +8934,10 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 20000,
     "Publications": 1168,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8658,10 +8946,10 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1269,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 11.9,
     "ChannelAgeText": "11 yil 11 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2014-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8670,10 +8958,10 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 16000,
     "Publications": 927,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 4 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-10-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8682,10 +8970,10 @@
     "ChannelLink": ".../openbank.uz/",
     "Subscribers": 15000,
     "Publications": 154,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8694,10 +8982,10 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 15000,
     "Publications": 879,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8706,10 +8994,10 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 14000,
     "Publications": 75,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 3.9,
     "ChannelAgeText": "3 yil 11 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8718,10 +9006,10 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2633,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 10.1,
     "ChannelAgeText": "10 yil 1 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8730,10 +9018,10 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8787,
     "Publications": 407,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 8.0,
     "ChannelAgeText": "8 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8742,10 +9030,10 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 8004,
     "Publications": 221,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.5,
     "ChannelAgeText": "3 yil 6 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-08-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8754,10 +9042,10 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6182,
     "Publications": 439,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-04-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8766,10 +9054,10 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4119,
     "Publications": 39,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8778,10 +9066,10 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1416,
     "Publications": 97,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.8,
     "ChannelAgeText": "4 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2021-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8790,10 +9078,10 @@
     "ChannelLink": ".../tbcbankuzbekistan/",
     "Subscribers": 211000,
     "Publications": 1455,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 5.7,
     "ChannelAgeText": "5 yil 8 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-06-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8802,10 +9090,10 @@
     "ChannelLink": ".../anorbank/",
     "Subscribers": 151000,
     "Publications": 1406,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 6.1,
     "ChannelAgeText": "6 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8814,10 +9102,10 @@
     "ChannelLink": ".../asakabankofficial/",
     "Subscribers": 125000,
     "Publications": 1329,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-06-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8826,10 +9114,10 @@
     "ChannelLink": ".../uzumbank_uz",
     "Subscribers": 89000,
     "Publications": 56,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 3,
     "ChannelAge": 1.7,
     "ChannelAgeText": "1 yil 7 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2024-07-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8838,10 +9126,10 @@
     "ChannelLink": ".../sqbuz/",
     "Subscribers": 85000,
     "Publications": 1483,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 17,
     "ChannelAge": 7.6,
     "ChannelAgeText": "7 yil 7 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-08-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8850,10 +9138,10 @@
     "ChannelLink": ".../agrobank_uz/",
     "Subscribers": 83000,
     "Publications": 711,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 1 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8862,10 +9150,10 @@
     "ChannelLink": ".../kapitalbank.uz/",
     "Subscribers": 80000,
     "Publications": 1192,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 9.0,
     "ChannelAgeText": "9 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8874,10 +9162,10 @@
     "ChannelLink": ".../ipakyulibank/",
     "Subscribers": 75000,
     "Publications": 2132,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 22,
     "ChannelAge": 8.1,
     "ChannelAgeText": "8 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8886,10 +9174,10 @@
     "ChannelLink": ".../ipotekabank.uz/",
     "Subscribers": 72000,
     "Publications": 1227,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.3,
     "ChannelAgeText": "7 yil 3 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-11-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8898,10 +9186,10 @@
     "ChannelLink": ".../avouzbank/",
     "Subscribers": 70000,
     "Publications": 312,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8910,10 +9198,10 @@
     "ChannelLink": ".../davrbankuz/",
     "Subscribers": 69000,
     "Publications": 819,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 8.4,
     "ChannelAgeText": "8 yil 4 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-10-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8922,10 +9210,10 @@
     "ChannelLink": ".../hamkorbank.uz/",
     "Subscribers": 60000,
     "Publications": 1786,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 19,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 10 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8934,10 +9222,10 @@
     "ChannelLink": ".../investfinancebank/",
     "Subscribers": 46000,
     "Publications": 1216,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 9.1,
     "ChannelAgeText": "9 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2017-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8946,10 +9234,10 @@
     "ChannelLink": ".../nbu.official/",
     "Subscribers": 43000,
     "Publications": 1742,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 9.7,
     "ChannelAgeText": "9 yil 8 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-07-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8958,10 +9246,10 @@
     "ChannelLink": ".../xalqbankinfo/",
     "Subscribers": 40000,
     "Publications": 1630,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 20,
     "ChannelAge": 6.8,
     "ChannelAgeText": "6 yil 10 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8970,10 +9258,10 @@
     "ChannelLink": ".../aloqabank.uz/",
     "Subscribers": 29000,
     "Publications": 971,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 8,
     "ChannelAge": 10.2,
     "ChannelAgeText": "10 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8982,10 +9270,10 @@
     "ChannelLink": ".../universalbank.uz",
     "Subscribers": 26000,
     "Publications": 1063,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 12,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 10 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -8994,10 +9282,10 @@
     "ChannelLink": ".../asia_alliance_bank/",
     "Subscribers": 22000,
     "Publications": 1187,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 14,
     "ChannelAge": 7.2,
     "ChannelAgeText": "7 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9006,10 +9294,10 @@
     "ChannelLink": ".../mkbank.uz",
     "Subscribers": 22000,
     "Publications": 1084,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 15,
     "ChannelAge": 6.2,
     "ChannelAgeText": "6 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9018,10 +9306,10 @@
     "ChannelLink": ".../trustbank_uz/",
     "Subscribers": 21000,
     "Publications": 1923,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 21,
     "ChannelAge": 7.8,
     "ChannelAgeText": "7 yil 10 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-05-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9030,10 +9318,10 @@
     "ChannelLink": ".../tengebankuz/",
     "Subscribers": 20000,
     "Publications": 1180,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 16,
     "ChannelAge": 6.3,
     "ChannelAgeText": "6 yil 3 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-11-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9042,10 +9330,10 @@
     "ChannelLink": ".../turonbank/",
     "Subscribers": 19000,
     "Publications": 1290,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 9,
     "ChannelAge": 12.0,
     "ChannelAgeText": "12 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2014-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9054,10 +9342,10 @@
     "ChannelLink": ".../apexbank.uz",
     "Subscribers": 18000,
     "Publications": 82,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.0,
     "ChannelAgeText": "4 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9066,10 +9354,10 @@
     "ChannelLink": ".../octobank_aj/",
     "Subscribers": 17000,
     "Publications": 898,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 11,
     "ChannelAge": 7.0,
     "ChannelAgeText": "7 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-03-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9078,10 +9366,10 @@
     "ChannelLink": ".../garantbank.uz/",
     "Subscribers": 16000,
     "Publications": 948,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 13,
     "ChannelAge": 6.4,
     "ChannelAgeText": "6 yil 4 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-10-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9090,10 +9378,10 @@
     "ChannelLink": ".../openbank.uz/",
     "Subscribers": 15000,
     "Publications": 156,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 3.2,
     "ChannelAgeText": "3 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9102,10 +9390,10 @@
     "ChannelLink": ".../brb_info",
     "Subscribers": 13000,
     "Publications": 2686,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 23,
     "ChannelAge": 10.2,
     "ChannelAgeText": "10 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2016-01-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9114,10 +9402,10 @@
     "ChannelLink": ".../ziraatbank_uzbekistan",
     "Subscribers": 8783,
     "Publications": 415,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 5,
     "ChannelAge": 8.1,
     "ChannelAgeText": "8 yil ",
-    "RegistrationDate": null
+    "RegistrationDate": "2018-02-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9126,10 +9414,10 @@
     "ChannelLink": ".../hayotbank_uz",
     "Subscribers": 7986,
     "Publications": 223,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 3.6,
     "ChannelAgeText": "3 yil 6 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2022-08-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9138,10 +9426,10 @@
     "ChannelLink": ".../poytaxt_bank/",
     "Subscribers": 6169,
     "Publications": 448,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 6,
     "ChannelAge": 6.9,
     "ChannelAgeText": "6 yil 11 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2019-04-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9150,10 +9438,10 @@
     "ChannelLink": ".../saderatbank_tashkent/",
     "Subscribers": 4111,
     "Publications": 38,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 1,
     "ChannelAge": 5.2,
     "ChannelAgeText": "5 yil 2 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2020-12-01"
   },
   {
     "SOC_NET": "INSTAGRAM",
@@ -9162,10 +9450,394 @@
     "ChannelLink": ".../mybankuzb/",
     "Subscribers": 1411,
     "Publications": 99,
-    "AvgPubPerMonth": null,
+    "AvgPubPerMonth": 2,
     "ChannelAge": 4.8,
     "ChannelAgeText": "4 yil 9 oy",
-    "RegistrationDate": null
+    "RegistrationDate": "2021-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuzbekistan/",
+    "Subscribers": 236000,
+    "Publications": 1472,
+    "AvgPubPerMonth": 22,
+    "ChannelAge": 5.8,
+    "ChannelAgeText": "5 yil 9 oy",
+    "RegistrationDate": "2020-06-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank/",
+    "Subscribers": 171000,
+    "Publications": 1458,
+    "AvgPubPerMonth": 20,
+    "ChannelAge": 6.2,
+    "ChannelAgeText": "6 yil 1 oy",
+    "RegistrationDate": "2020-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabankofficial/",
+    "Subscribers": 127000,
+    "Publications": 1358,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 7.8,
+    "ChannelAgeText": "7 yil 9 oy",
+    "RegistrationDate": "2018-06-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank_uz",
+    "Subscribers": 104000,
+    "Publications": 64,
+    "AvgPubPerMonth": 4,
+    "ChannelAge": 1.7,
+    "ChannelAgeText": "1 yil 8 oy",
+    "RegistrationDate": "2024-07-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank.uz/",
+    "Subscribers": 87000,
+    "Publications": 1222,
+    "AvgPubPerMonth": 12,
+    "ChannelAge": 9.1,
+    "ChannelAgeText": "9 yil 1 oy",
+    "RegistrationDate": "2017-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "O`ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz/",
+    "Subscribers": 86000,
+    "Publications": 1503,
+    "AvgPubPerMonth": 17,
+    "ChannelAge": 7.7,
+    "ChannelAgeText": "7 yil 7 oy",
+    "RegistrationDate": "2018-08-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../ipakyulibank/",
+    "Subscribers": 85000,
+    "Publications": 2163,
+    "AvgPubPerMonth": 23,
+    "ChannelAge": 8.2,
+    "ChannelAgeText": "8 yil 1 oy",
+    "RegistrationDate": "2018-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank_uz/",
+    "Subscribers": 85000,
+    "Publications": 726,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 7.2,
+    "ChannelAgeText": "7 yil 2 oy",
+    "RegistrationDate": "2019-01-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank/",
+    "Subscribers": 83000,
+    "Publications": 323,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 3.3,
+    "ChannelAgeText": "3 yil 3 oy",
+    "RegistrationDate": "2022-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz/",
+    "Subscribers": 81000,
+    "Publications": 834,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 8.5,
+    "ChannelAgeText": "8 yil 5 oy",
+    "RegistrationDate": "2017-10-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabank.uz/",
+    "Subscribers": 78000,
+    "Publications": 1233,
+    "AvgPubPerMonth": 14,
+    "ChannelAge": 7.4,
+    "ChannelAgeText": "7 yil 4 oy",
+    "RegistrationDate": "2018-11-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../hamkorbank.uz/",
+    "Subscribers": 65000,
+    "Publications": 1823,
+    "AvgPubPerMonth": 20,
+    "ChannelAge": 7.9,
+    "ChannelAgeText": "7 yil 11 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../investfinancebank/",
+    "Subscribers": 49000,
+    "Publications": 1246,
+    "AvgPubPerMonth": 12,
+    "ChannelAge": 9.2,
+    "ChannelAgeText": "9 yil 1 oy",
+    "RegistrationDate": "2017-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../nbu.official/",
+    "Subscribers": 47000,
+    "Publications": 1805,
+    "AvgPubPerMonth": 16,
+    "ChannelAge": 9.8,
+    "ChannelAgeText": "9 yil 9 oy",
+    "RegistrationDate": "2016-07-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo/",
+    "Subscribers": 42000,
+    "Publications": 1638,
+    "AvgPubPerMonth": 20,
+    "ChannelAge": 6.9,
+    "ChannelAgeText": "6 yil 11 oy",
+    "RegistrationDate": "2019-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank.uz/",
+    "Subscribers": 29000,
+    "Publications": 992,
+    "AvgPubPerMonth": 9,
+    "ChannelAge": 10.2,
+    "ChannelAgeText": "10 yil 2 oy",
+    "RegistrationDate": "2016-01-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank.uz",
+    "Subscribers": 26000,
+    "Publications": 1088,
+    "AvgPubPerMonth": 12,
+    "ChannelAge": 7.9,
+    "ChannelAgeText": "7 yil 11 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank.uz",
+    "Subscribers": 25000,
+    "Publications": 96,
+    "AvgPubPerMonth": 2,
+    "ChannelAge": 4.1,
+    "ChannelAgeText": "4 yil ",
+    "RegistrationDate": "2022-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asia_alliance_bank/",
+    "Subscribers": 24000,
+    "Publications": 1210,
+    "AvgPubPerMonth": 14,
+    "ChannelAge": 7.3,
+    "ChannelAgeText": "7 yil 3 oy",
+    "RegistrationDate": "2018-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbank.uz",
+    "Subscribers": 24000,
+    "Publications": 1102,
+    "AvgPubPerMonth": 15,
+    "ChannelAge": 6.3,
+    "ChannelAgeText": "6 yil 3 oy",
+    "RegistrationDate": "2019-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbank_uz/",
+    "Subscribers": 22000,
+    "Publications": 1957,
+    "AvgPubPerMonth": 21,
+    "ChannelAge": 7.9,
+    "ChannelAgeText": "7 yil 11 oy",
+    "RegistrationDate": "2018-05-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebankuz/",
+    "Subscribers": 21000,
+    "Publications": 1198,
+    "AvgPubPerMonth": 16,
+    "ChannelAge": 6.4,
+    "ChannelAgeText": "6 yil 4 oy",
+    "RegistrationDate": "2019-11-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb_uzb",
+    "Subscribers": 20000,
+    "Publications": 378,
+    "AvgPubPerMonth": 64,
+    "ChannelAge": 0.5,
+    "ChannelAgeText": "5 oy",
+    "RegistrationDate": "2025-10-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbank/",
+    "Subscribers": 19000,
+    "Publications": 1311,
+    "AvgPubPerMonth": 10,
+    "ChannelAge": 12.1,
+    "ChannelAgeText": "12 yil 1 oy",
+    "RegistrationDate": "2014-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank_aj/",
+    "Subscribers": 18000,
+    "Publications": 926,
+    "AvgPubPerMonth": 11,
+    "ChannelAge": 7.1,
+    "ChannelAgeText": "7 yil 1 oy",
+    "RegistrationDate": "2019-03-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbank.uz/",
+    "Subscribers": 18000,
+    "Publications": 976,
+    "AvgPubPerMonth": 13,
+    "ChannelAge": 6.5,
+    "ChannelAgeText": "6 yil 5 oy",
+    "RegistrationDate": "2019-10-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../openbank.uz/",
+    "Subscribers": 15000,
+    "Publications": 156,
+    "AvgPubPerMonth": 4,
+    "ChannelAge": 3.3,
+    "ChannelAgeText": "3 yil 3 oy",
+    "RegistrationDate": "2022-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 14000,
+    "Publications": 233,
+    "AvgPubPerMonth": 6,
+    "ChannelAge": 3.7,
+    "ChannelAgeText": "3 yil 7 oy",
+    "RegistrationDate": "2022-08-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbank_uzbekistan",
+    "Subscribers": 8798,
+    "Publications": 423,
+    "AvgPubPerMonth": 5,
+    "ChannelAge": 8.2,
+    "ChannelAgeText": "8 yil 1 oy",
+    "RegistrationDate": "2018-02-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../poytaxt_bank/",
+    "Subscribers": 6304,
+    "Publications": 451,
+    "AvgPubPerMonth": 6,
+    "ChannelAge": 7.0,
+    "ChannelAgeText": "7 yil ",
+    "RegistrationDate": "2019-04-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "SODEROT BANK",
+    "ChannelLink": ".../saderatbank_tashkent/",
+    "Subscribers": 4098,
+    "Publications": 40,
+    "AvgPubPerMonth": 1,
+    "ChannelAge": 5.3,
+    "ChannelAgeText": "5 yil 3 oy",
+    "RegistrationDate": "2020-12-01"
+  },
+  {
+    "SOC_NET": "INSTAGRAM",
+    "Period": "2026_03",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybankuzb/",
+    "Subscribers": 1415,
+    "Publications": 107,
+    "AvgPubPerMonth": 2,
+    "ChannelAge": 4.9,
+    "ChannelAgeText": "4 yil 10 oy",
+    "RegistrationDate": "2021-05-01"
   },
   {
     "SOC_NET": "TELEGRAM",
@@ -15216,6 +15888,440 @@
     "ChannelAgeText": "1 yil 7 oy"
   },
   {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../xalqbankinfo",
+    "Subscribers": 123134,
+    "SubChange": 1820,
+    "Publications": 3646,
+    "PubChange": 30.0,
+    "ReachPerPost": 66621,
+    "AdReachPerPost": 23481,
+    "ChannelAge": 7.1205,
+    "ChannelAgeText": "7 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzumbank",
+    "Subscribers": 123125,
+    "SubChange": -7351,
+    "Publications": 1309,
+    "PubChange": 23.0,
+    "ReachPerPost": 63574,
+    "AdReachPerPost": 24609,
+    "ChannelAge": 6.1836,
+    "ChannelAgeText": "6 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../AgrobankChannel",
+    "Subscribers": 65755,
+    "SubChange": -2853,
+    "Publications": 2020,
+    "PubChange": 35.0,
+    "ReachPerPost": 40819,
+    "AdReachPerPost": 14512,
+    "ChannelAge": 8.4904,
+    "ChannelAgeText": "8 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 46481,
+    "SubChange": -2390,
+    "Publications": 3597,
+    "PubChange": 12.0,
+    "ReachPerPost": 15405,
+    "AdReachPerPost": 6803,
+    "ChannelAge": 8.0986,
+    "ChannelAgeText": "8 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../Hamkorbankuz",
+    "Subscribers": 36465,
+    "SubChange": 1141,
+    "Publications": 5187,
+    "PubChange": 72.0,
+    "ReachPerPost": 12758,
+    "AdReachPerPost": 6251,
+    "ChannelAge": 9.5315,
+    "ChannelAgeText": "9 yil 6 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../brb_uzb",
+    "Subscribers": 31334,
+    "SubChange": -3710,
+    "Publications": 672,
+    "PubChange": 34.0,
+    "ReachPerPost": 26090,
+    "AdReachPerPost": 4244,
+    "ChannelAge": 2.411,
+    "ChannelAgeText": "2 yil 4 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mikrokreditbank",
+    "Subscribers": 30683,
+    "SubChange": -6091,
+    "Publications": 4708,
+    "PubChange": 116.0,
+    "ReachPerPost": 6023,
+    "AdReachPerPost": 1757,
+    "ChannelAge": 8.4877,
+    "ChannelAgeText": "8 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../nbu_official",
+    "Subscribers": 29626,
+    "SubChange": -21,
+    "Publications": 3331,
+    "PubChange": 142.0,
+    "ReachPerPost": 7506,
+    "AdReachPerPost": 5325,
+    "ChannelAge": 9.2,
+    "ChannelAgeText": "9 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapital24",
+    "Subscribers": 26428,
+    "SubChange": 483,
+    "Publications": 2150,
+    "PubChange": 38.0,
+    "ReachPerPost": 8698,
+    "AdReachPerPost": 4115,
+    "ChannelAge": 8.9507,
+    "ChannelAgeText": "8 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbc_bank_uzb",
+    "Subscribers": 26346,
+    "SubChange": -143,
+    "Publications": 2305,
+    "PubChange": 30.0,
+    "ReachPerPost": 27474,
+    "AdReachPerPost": 4882,
+    "ChannelAge": 5.7863,
+    "ChannelAgeText": "5 yil 9 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../Asakabank_official",
+    "Subscribers": 18121,
+    "SubChange": 96,
+    "Publications": 4021,
+    "PubChange": 57.0,
+    "ReachPerPost": 9518,
+    "AdReachPerPost": 3073,
+    "ChannelAge": 7.937,
+    "ChannelAgeText": "7 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "O`ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqbuz",
+    "Subscribers": 17531,
+    "SubChange": -670,
+    "Publications": 2868,
+    "PubChange": 52.0,
+    "ReachPerPost": 7116,
+    "AdReachPerPost": 3727,
+    "ChannelAge": 8.4329,
+    "ChannelAgeText": "8 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../ipakyulibankuz",
+    "Subscribers": 17160,
+    "SubChange": 46,
+    "Publications": 3790,
+    "PubChange": 41.0,
+    "ReachPerPost": 4233,
+    "AdReachPerPost": 2367,
+    "ChannelAge": 8.1205,
+    "ChannelAgeText": "8 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avouzbank",
+    "Subscribers": 14513,
+    "SubChange": -595,
+    "Publications": 1112,
+    "PubChange": 12.0,
+    "ReachPerPost": 7251,
+    "AdReachPerPost": 2787,
+    "ChannelAge": 2.1233,
+    "ChannelAgeText": "2 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank",
+    "Subscribers": 11821,
+    "SubChange": 26,
+    "Publications": 3225,
+    "PubChange": 68.0,
+    "ReachPerPost": 2618,
+    "AdReachPerPost": 1400,
+    "ChannelAge": 6.2384,
+    "ChannelAgeText": "6 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank",
+    "Subscribers": 9602,
+    "SubChange": 123,
+    "Publications": 4892,
+    "PubChange": 61.0,
+    "ReachPerPost": 3697,
+    "AdReachPerPost": 2100,
+    "ChannelAge": 8.5699,
+    "ChannelAgeText": "8 yil 6 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trustbankuz",
+    "Subscribers": 8579,
+    "SubChange": 369,
+    "Publications": 6025,
+    "PubChange": 48.0,
+    "ReachPerPost": 4231,
+    "AdReachPerPost": 2766,
+    "ChannelAge": 7.7014,
+    "ChannelAgeText": "7 yil 8 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz",
+    "Subscribers": 7642,
+    "SubChange": -47,
+    "Publications": 2548,
+    "PubChange": 52.0,
+    "ReachPerPost": 3243,
+    "AdReachPerPost": 1661,
+    "ChannelAge": 6.6658,
+    "ChannelAgeText": "6 yil 7 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../Tengebankuz",
+    "Subscribers": 6739,
+    "SubChange": -89,
+    "Publications": 2364,
+    "PubChange": 16.0,
+    "ReachPerPost": 2047,
+    "AdReachPerPost": 825,
+    "ChannelAge": 6.6603,
+    "ChannelAgeText": "6 yil 7 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../turonbankuz",
+    "Subscribers": 6628,
+    "SubChange": -66,
+    "Publications": 3932,
+    "PubChange": 63.0,
+    "ReachPerPost": 3048,
+    "AdReachPerPost": 1575,
+    "ChannelAge": 7.4795,
+    "ChannelAgeText": "7 yil 5 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../Octobank_AJ",
+    "Subscribers": 6486,
+    "SubChange": -725,
+    "Publications": 4693,
+    "PubChange": 95.0,
+    "ReachPerPost": 666,
+    "AdReachPerPost": 480,
+    "ChannelAge": 8.1315,
+    "ChannelAgeText": "8 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asiaalliancebank",
+    "Subscribers": 4518,
+    "SubChange": -27,
+    "Publications": 3582,
+    "PubChange": 28.0,
+    "ReachPerPost": 1676,
+    "AdReachPerPost": 856,
+    "ChannelAge": 7.2959,
+    "ChannelAgeText": "7 yil 3 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbank_uzb",
+    "Subscribers": 3201,
+    "SubChange": -1195,
+    "Publications": 173,
+    "PubChange": 12.0,
+    "ReachPerPost": 1518,
+    "AdReachPerPost": 638,
+    "ChannelAge": 3.2329,
+    "ChannelAgeText": "3 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../myuniversalbank",
+    "Subscribers": 2964,
+    "SubChange": 42,
+    "Publications": 2610,
+    "PubChange": 48.0,
+    "ReachPerPost": 2512,
+    "AdReachPerPost": 962,
+    "ChannelAge": 7.0849,
+    "ChannelAgeText": "7 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garantbankuz_official",
+    "Subscribers": 2445,
+    "SubChange": 32,
+    "Publications": 3240,
+    "PubChange": 76.0,
+    "ReachPerPost": 1025,
+    "AdReachPerPost": 591,
+    "ChannelAge": 9.6301,
+    "ChannelAgeText": "9 yil 7 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 2212,
+    "SubChange": 82,
+    "Publications": 335,
+    "PubChange": 7.0,
+    "ReachPerPost": 1993,
+    "AdReachPerPost": 751,
+    "ChannelAge": 3.5836,
+    "ChannelAgeText": "3 yil 7 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraatbankuzbekistan",
+    "Subscribers": 1832,
+    "SubChange": -30,
+    "Publications": 789,
+    "PubChange": 27.0,
+    "ReachPerPost": 1265,
+    "AdReachPerPost": 428,
+    "ChannelAge": 8.1452,
+    "ChannelAgeText": "8 yil 1 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../smart_bank_uz",
+    "Subscribers": 1337,
+    "SubChange": -22,
+    "Publications": 330,
+    "PubChange": 31.0,
+    "ReachPerPost": 654,
+    "AdReachPerPost": 245,
+    "ChannelAge": 3.2137,
+    "ChannelAgeText": "3 yil 2 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "KDB BANK O`ZBEKISTON",
+    "ChannelLink": ".../kdbuzbekistan",
+    "Subscribers": 1262,
+    "SubChange": -4,
+    "Publications": 3079,
+    "PubChange": 74.0,
+    "ReachPerPost": 479,
+    "AdReachPerPost": 306,
+    "ChannelAge": 6.0767,
+    "ChannelAgeText": "6 yil "
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "POYTAXT BANK",
+    "ChannelLink": ".../bank_poytaxt",
+    "Subscribers": 1194,
+    "SubChange": -23,
+    "Publications": 1330,
+    "PubChange": 45.0,
+    "ReachPerPost": 407,
+    "AdReachPerPost": 259,
+    "ChannelAge": 6.9562,
+    "ChannelAgeText": "6 yil 11 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_03",
+    "OrgName": "MADAD INVEST BANK",
+    "ChannelLink": ".../mybank_uzb",
+    "Subscribers": 672,
+    "SubChange": -2,
+    "Publications": 378,
+    "PubChange": 6.0,
+    "ReachPerPost": 413,
+    "AdReachPerPost": 218,
+    "ChannelAge": 1.7068,
+    "ChannelAgeText": "1 yil 8 oy"
+  },
+  {
     "SOC_NET": "YOUTUBE",
     "Period": "2025_01",
     "OrgName": "TBC BANK",
@@ -18876,6 +19982,258 @@
     "ChannelAge": 7.9863
   },
   {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../@Agrobankuzb",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 6.2575
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../@TBCBankuz",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.2384
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../@turonbankmedia",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.3616
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "XALQ BANKI",
+    "ChannelLink": ".../@XalqBankinfo",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 6.5288
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../@avobank",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 2.5178
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../@ipotekabankofficial",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.7781
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../@JSCBHamkorBank",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 11.5644
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "O`ZSANOATQURILISHBANK",
+    "ChannelLink": ".../@sqbuz",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 6.2658
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../@nbu.official",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 8.126
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../@IpakYuliBankUzb",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 6.7452
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../@JSCAloqaBank",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 9.7918
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../@anorbankuz",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.4932
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../@mkbankuz",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.8164
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../@tengebankuz",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 4.3616
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../@trastbank8448",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 3.4767
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
+    "ChannelLink": ".../@brb_info",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 4.8411
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../@infinbank7447",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 9.0603
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../@davrbank336",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 4.5205
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../@asakabank8905",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 5.6603
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../@КапитальныйКанал",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 8.9534
+  },
+  {
+    "SOC_NET": "YOUTUBE",
+    "Period": "2026_03",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../@ziraatbankuzbekistan5428",
+    "Subscribers": 0,
+    "Publications": 0,
+    "AvgPubPerMonth": 0,
+    "Views": 0,
+    "AvgViewsPerMonth": 0,
+    "ChannelAge": 7.9863
+  },
+  {
     "SOC_NET": "X_COM",
     "Period": "2025_01",
     "OrgName": "XALQ BANKI",
@@ -21033,6 +22391,146 @@
     "Subscribers": 1,
     "Scale": 2098,
     "ChannelAge": 5.7479,
+    "Publications": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../Hamkorbank_uz",
+    "Subscribers": 147,
+    "Scale": 4167,
+    "ChannelAge": 11.4164,
+    "Publications": 97.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../ipakyulibank",
+    "Subscribers": 32,
+    "Scale": 5171,
+    "ChannelAge": 14.1671,
+    "Publications": 42.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../infinbank",
+    "Subscribers": 31,
+    "Scale": 3194,
+    "ChannelAge": 8.7507,
+    "Publications": 22.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcuz",
+    "Subscribers": 27,
+    "Scale": 575,
+    "ChannelAge": 1.5753,
+    "Publications": 19.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../nbu_official",
+    "Subscribers": 19,
+    "Scale": 972,
+    "ChannelAge": 2.663,
+    "Publications": 442.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank_",
+    "Subscribers": 5,
+    "Scale": 698,
+    "ChannelAge": 1.9123,
+    "Publications": 5.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "O`ZSANOATQURILISHBANK",
+    "ChannelLink": ".../sqb_uz",
+    "Subscribers": 5,
+    "Scale": 1003,
+    "ChannelAge": 2.7479,
+    "Publications": 282.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davrbankuz",
+    "Subscribers": 3,
+    "Scale": 2798,
+    "ChannelAge": 7.6658,
+    "Publications": 18.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../Agrobank_uz",
+    "Subscribers": 3,
+    "Scale": 1794,
+    "ChannelAge": 4.9151,
+    "Publications": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "TURONBANK",
+    "ChannelLink": ".../Turonbank0611",
+    "Subscribers": 2,
+    "Scale": 667,
+    "ChannelAge": 1.8274,
+    "Publications": 16.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayotbank_uz",
+    "Subscribers": 1,
+    "Scale": 1094,
+    "ChannelAge": 2.9973,
+    "Publications": 0.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tengebank",
+    "Subscribers": 1,
+    "Scale": 880,
+    "ChannelAge": 2.411,
+    "Publications": 1.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../BankIpoteka",
+    "Subscribers": 1,
+    "Scale": 667,
+    "ChannelAge": 1.8274,
+    "Publications": 1.0
+  },
+  {
+    "SOC_NET": "X_COM",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank1",
+    "Subscribers": 1,
+    "Scale": 2128,
+    "ChannelAge": 5.8301,
     "Publications": 0.0
   },
   {
@@ -24049,6 +25547,214 @@
     "OrgName": "UNIVERSAL BANK",
     "ChannelLink": ".../universalbank-uz",
     "Subscribers": 197,
+    "EmployeeCount": "501-1000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "TBC BANK",
+    "ChannelLink": ".../tbcbankuz",
+    "Subscribers": 18000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "ANOR BANK",
+    "ChannelLink": ".../anorbank",
+    "Subscribers": 12000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "IPOTEKA-BANK",
+    "ChannelLink": ".../ipotekabankofficial",
+    "Subscribers": 11000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "BANK IPAK YO`LI",
+    "ChannelLink": ".../ipak-yuli-bank",
+    "Subscribers": 8000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "AGROBANK",
+    "ChannelLink": ".../agrobank",
+    "Subscribers": 5000,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "UZUM BANK",
+    "ChannelLink": ".../uzum-bank1/",
+    "Subscribers": 4000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "AVO BANK",
+    "ChannelLink": ".../avo-uz",
+    "Subscribers": 4000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "ASAKABANK",
+    "ChannelLink": ".../asakabank",
+    "Subscribers": 4000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "HAMKORBANK",
+    "ChannelLink": ".../hamkorbankuz",
+    "Subscribers": 4000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../national-bankof-uzbekistan",
+    "Subscribers": 4000,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "OPEN BANK",
+    "ChannelLink": ".../smartbank-uz",
+    "Subscribers": 3000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "OCTOBANK",
+    "ChannelLink": ".../octobank-uz",
+    "Subscribers": 3000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "KAPITALBANK",
+    "ChannelLink": ".../kapitalbank",
+    "Subscribers": 3000,
+    "EmployeeCount": "501-1000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "APEX BANK",
+    "ChannelLink": ".../apexbankuz",
+    "Subscribers": 2000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "INFINBANK",
+    "ChannelLink": ".../infinbank/",
+    "Subscribers": 2000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "ALOQABANK",
+    "ChannelLink": ".../aloqabank/",
+    "Subscribers": 2000,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "HAYOT BANK",
+    "ChannelLink": ".../hayot-bankuz",
+    "Subscribers": 1000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "TENGE BANK",
+    "ChannelLink": ".../tenge-bank/",
+    "Subscribers": 1000,
+    "EmployeeCount": "0-1"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "KDB BANK O`ZBEKISTON",
+    "ChannelLink": ".../kdb-bank-uzbekistan",
+    "Subscribers": 1000,
+    "EmployeeCount": "201-500"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "ZIRAAT BANK UZBEKISTAN",
+    "ChannelLink": ".../ziraat-bank-uzbekistan",
+    "Subscribers": 1000,
+    "EmployeeCount": "51-200"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "DAVR-BANK",
+    "ChannelLink": ".../davr-bank",
+    "Subscribers": 992,
+    "EmployeeCount": "10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "MIKROKREDITBANK",
+    "ChannelLink": ".../mkbankuz/",
+    "Subscribers": 494,
+    "EmployeeCount": "10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "GARANT BANK",
+    "ChannelLink": ".../garant-bank-uzbekistan",
+    "Subscribers": 339,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "ASIA ALLIANCE BANK",
+    "ChannelLink": ".../asia-alliance-bank/",
+    "Subscribers": 318,
+    "EmployeeCount": "1000-5000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "TRASTBANK",
+    "ChannelLink": ".../trastbank",
+    "Subscribers": 280,
+    "EmployeeCount": "5000-10000"
+  },
+  {
+    "SOC_NET": "LINKEDIN",
+    "Period": "2026_03",
+    "OrgName": "UNIVERSAL BANK",
+    "ChannelLink": ".../universalbank-uz",
+    "Subscribers": 203,
     "EmployeeCount": "501-1000"
   }
 ]
