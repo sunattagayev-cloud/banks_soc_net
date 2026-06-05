@@ -18191,6 +18191,20 @@
   {
     "SOC_NET": "TELEGRAM",
     "Period": "2026_05",
+    "OrgName": "O`ZMILLIYBANK",
+    "ChannelLink": ".../nbu_official",
+    "Subscribers": 29683,
+    "SubChange": 159,
+    "Publications": 3492,
+    "PubChange": 76.0,
+    "ReachPerPost": 6847,
+    "AdReachPerPost": 5508,
+    "ChannelAge": 9.3699,
+    "ChannelAgeText": "9 yil 4 oy"
+  },
+  {
+    "SOC_NET": "TELEGRAM",
+    "Period": "2026_05",
     "OrgName": "BIZNESNI RIVOJLANTIRISH BANKI",
     "ChannelLink": ".../brb_uzb",
     "Subscribers": 27987,
@@ -18509,20 +18523,6 @@
     "AdReachPerPost": 202,
     "ChannelAge": 1.8767,
     "ChannelAgeText": "1 yil 10 oy"
-  },
-  {
-    "SOC_NET": "TELEGRAM",
-    "Period": "2026_05",
-    "OrgName": "O`ZMILLIYBANK",
-    "ChannelLink": ".../nbu_official",
-    "Subscribers": 0,
-    "SubChange": 0,
-    "Publications": 0,
-    "PubChange": 0.0,
-    "ReachPerPost": 0,
-    "AdReachPerPost": 0,
-    "ChannelAge": null,
-    "ChannelAgeText": null
   },
   {
     "SOC_NET": "YOUTUBE",
